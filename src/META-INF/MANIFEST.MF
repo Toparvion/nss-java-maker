@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: ru.toparvion.security.njm.Puzzle
+Implementation-Title: NSS Java Maker
+Implementation-Version: 1.0
+Created-By: Toparvion
