@@ -2,11 +2,11 @@
 A tiny command-line utility for automated Wireshark SSL key (NSS) files creation from Java SSL debug logs.  
 These files can be used to decrypt HTTPS (or any other SSL/TLS) traffic produced by Java application.
 
-To catch the idea of how it can be used please refer to article "[Decrypting Java applications' TLS  traffic via logs](http://habrahabr.ru/post/254205/)" (in russian).
+To catch the idea of how it can be used please refer to article "[Decrypting Java applications' TLS traffic via logs](http://habrahabr.ru/post/254205/)" (in russian).
 
 ## Features
 
-* Both [RSA](http://en.wikipedia.org/wiki/RSA_(cryptosystem)) and [Diffie-Hellman](http://en.wikipedia.org/wiki/Diffie–Hellman_key_exchange) (PFC) negotiation modes support;
+* Both [RSA](http://en.wikipedia.org/wiki/RSA_(cryptosystem)) and [Diffie-Hellman](http://en.wikipedia.org/wiki/Diffie–Hellman_key_exchange) (PFS) negotiation modes support;
 * Various `-Djavax.net.debug` argument values support *(the `:data` value suffix is required)*;
 * Various JRE versions of logging application support *(from 6 to 8)*;
 * Customizable output file creation modes: **skip, rewrite, append** *(useful for combining with other tools)*;
