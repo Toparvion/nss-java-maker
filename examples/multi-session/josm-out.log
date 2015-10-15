@@ -1,0 +1,1835 @@
+23:19.16 1[dbg] In DllGetClassObject
+23:19.16 2[dbg] CShellExtClassFactory::CShellExtClassFactory()
+23:19.16 3[dbg] CShellExtClassFactory::QueryInterface()
+23:19.16 4[dbg] CShellExtClassFactory::CreateInstance()
+23:19.16 5[dbg] CShellExt::CShellExt()
+23:19.16 6[dbg] CShellExt::QueryInterface()==>IID_IShellIconOverlayIdentifier
+23:19.16 7[dbg] CShellExt::AddRef()
+23:19.16 8[dbg] CShellExt::AddRef()
+23:19.16 9[dbg] CShellExt::Release()
+23:19.16 10[dbg] CShellExt::QueryInterface()==>IID_IShellIconOverlayIdentifier
+23:19.16 11[dbg] CShellExt::AddRef()
+23:19.16 12[dbg] CShellExt::Release()
+23:19.16 13[dbg] Entering CShellExt::GetOverlayInfo
+23:19.16 14[dbg] Icon path: C:\Program Files (x86)\Hewlett-Packard\HP CloudDrive\icons\deflated.ico
+23:19.16 15[dbg] Exiting CShellExt::GetOverlayInfo successfully.
+23:19.16 16[dbg] Time to execute: 0ms
+23:19.16 17[dbg] Entering CShellExt::GetPriority
+23:19.16 18[dbg] Exiting CShellExt::GetPriority
+23:19.16 19[dbg] In DllGetClassObject
+23:19.16 20[dbg] CShellExtClassFactory::CShellExtClassFactory()
+23:19.16 21[dbg] CShellExtClassFactory::QueryInterface()
+23:19.16 22[dbg] CShellExtClassFactory::CreateInstance()
+23:19.16 23[dbg] CShellExt::CShellExt()
+23:19.16 24[dbg] CShellExt::QueryInterface()==>IID_IShellIconOverlayIdentifier
+23:19.16 25[dbg] CShellExt::AddRef()
+23:19.16 26[dbg] CShellExt::AddRef()
+23:19.16 27[dbg] CShellExt::Release()
+23:19.16 28[dbg] CShellExt::QueryInterface()==>IID_IShellIconOverlayIdentifier
+23:19.16 29[dbg] CShellExt::AddRef()
+23:19.16 30[dbg] CShellExt::Release()
+23:19.16 31[dbg] Entering CShellExt::GetOverlayInfo
+23:19.16 32[dbg] Icon path: C:\Program Files (x86)\Hewlett-Packard\HP CloudDrive\icons\download.ico
+23:19.16 33[dbg] Exiting CShellExt::GetOverlayInfo successfully.
+23:19.16 34[dbg] Time to execute: 0ms
+23:19.16 35[dbg] Entering CShellExt::GetPriority
+23:19.16 36[dbg] Exiting CShellExt::GetPriority
+23:19.16 37[dbg] In DllGetClassObject
+23:19.16 38[dbg] CShellExtClassFactory::CShellExtClassFactory()
+23:19.16 39[dbg] CShellExtClassFactory::QueryInterface()
+23:19.16 40[dbg] CShellExtClassFactory::CreateInstance()
+23:19.16 41[dbg] CShellExt::CShellExt()
+23:19.16 42[dbg] CShellExt::QueryInterface()==>IID_IShellIconOverlayIdentifier
+23:19.16 43[dbg] CShellExt::AddRef()
+23:19.16 44[dbg] CShellExt::AddRef()
+23:19.16 45[dbg] CShellExt::Release()
+23:19.16 46[dbg] CShellExt::QueryInterface()==>IID_IShellIconOverlayIdentifier
+23:19.16 47[dbg] CShellExt::AddRef()
+23:19.16 48[dbg] CShellExt::Release()
+23:19.16 49[dbg] Entering CShellExt::GetOverlayInfo
+23:19.16 50[dbg] Icon path: C:\Program Files (x86)\Hewlett-Packard\HP CloudDrive\icons\share.ico
+23:19.16 51[dbg] Exiting CShellExt::GetOverlayInfo successfully.
+23:19.16 52[dbg] Time to execute: 0ms
+23:19.16 53[dbg] Entering CShellExt::GetPriority
+23:19.16 54[dbg] Exiting CShellExt::GetPriority
+23:19.16 55[dbg] In DllGetClassObject
+23:19.16 56[dbg] CShellExtClassFactory::CShellExtClassFactory()
+23:19.16 57[dbg] CShellExtClassFactory::QueryInterface()
+23:19.16 58[dbg] CShellExtClassFactory::CreateInstance()
+23:19.16 59[dbg] CShellExt::CShellExt()
+23:19.16 60[dbg] CShellExt::QueryInterface()==>IID_IShellIconOverlayIdentifier
+23:19.16 61[dbg] CShellExt::AddRef()
+23:19.16 62[dbg] CShellExt::AddRef()
+23:19.16 63[dbg] CShellExt::Release()
+23:19.16 64[dbg] CShellExt::QueryInterface()==>IID_IShellIconOverlayIdentifier
+23:19.16 65[dbg] CShellExt::AddRef()
+23:19.16 66[dbg] CShellExt::Release()
+23:19.16 67[dbg] Entering CShellExt::GetOverlayInfo
+23:19.16 68[dbg] Icon path: C:\Program Files (x86)\Hewlett-Packard\HP CloudDrive\icons\upload.ico
+23:19.16 69[dbg] Exiting CShellExt::GetOverlayInfo successfully.
+23:19.16 70[dbg] Time to execute: 0ms
+23:19.16 71[dbg] Entering CShellExt::GetPriority
+23:19.16 72[dbg] Exiting CShellExt::GetPriority
+23:19.16 73[dbg] In DllGetClassObject
+23:19.16 74[dbg] CShellExtClassFactory::CShellExtClassFactory()
+23:19.16 75[dbg] CShellExtClassFactory::QueryInterface()
+23:19.16 76[dbg] CShellExtClassFactory::CreateInstance()
+23:19.16 77[dbg] CShellExt::CShellExt()
+23:19.16 78[dbg] CShellExt::QueryInterfacekeyStore is : 
+keyStore type is : jks
+keyStore provider is : 
+init keystore
+init keymanager of type SunX509
+trustStore is: C:\Program Files\Java\jre1.8.0_45\lib\security\cacerts
+trustStore type is : jks
+trustStore provider is : 
+init truststore
+adding as trusted cert:
+  Subject: CN=Equifax Secure Global eBusiness CA-1, O=Equifax Secure Inc., C=US
+  Issuer:  CN=Equifax Secure Global eBusiness CA-1, O=Equifax Secure Inc., C=US
+  Algorithm: RSA; Serial number: 0xc3517
+  Valid from Mon Jun 21 11:00:00 NOVST 1999 until Mon Jun 22 10:00:00 NOVT 2020
+
+adding as trusted cert:
+  Subject: CN=SecureTrust CA, O=SecureTrust Corporation, C=US
+  Issuer:  CN=SecureTrust CA, O=SecureTrust Corporation, C=US
+  Algorithm: RSA; Serial number: 0xcf08e5c0816a5ad427ff0eb271859d0
+  Valid from Wed Nov 08 01:31:18 NOVT 2006 until Tue Jan 01 01:40:55 NOVT 2030
+
+adding as trusted cert:
+  Subject: CN=Starfield Root Certificate Authority - G2, O="Starfield Technologies, Inc.", L=Scottsdale, ST=Arizona, C=US
+  Issuer:  CN=Starfield Root Certificate Authority - G2, O="Starfield Technologies, Inc.", L=Scottsdale, ST=Arizona, C=US
+  Algorithm: RSA; Serial number: 0x0
+  Valid from Tue Sep 01 07:00:00 NOVST 2009 until Fri Jan 01 05:59:59 NOVT 2038
+
+adding as trusted cert:
+  Subject: CN=VeriSign Class 2 Public Primary Certification Authority - G3, OU="(c) 1999 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+  Issuer:  CN=VeriSign Class 2 Public Primary Certification Authority - G3, OU="(c) 1999 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x6170cb498c5f984529e7b0a6d9505b7a
+  Valid from Fri Oct 01 07:00:00 NOVST 1999 until Thu Jul 17 05:59:59 NOVT 2036
+
+adding as trusted cert:
+  Subject: OU=Security Communication RootCA1, O=SECOM Trust.net, C=JP
+  Issuer:  OU=Security Communication RootCA1, O=SECOM Trust.net, C=JP
+  Algorithm: RSA; Serial number: 0x0
+  Valid from Tue Sep 30 11:20:49 NOVST 2003 until Sat Sep 30 10:20:49 NOVT 2023
+
+adding as trusted cert:
+  Subject: CN=DigiCert Global Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US
+  Issuer:  CN=DigiCert Global Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US
+  Algorithm: RSA; Serial number: 0x83be056904246b1a1756ac95991c74a
+  Valid from Fri Nov 10 06:00:00 NOVT 2006 until Mon Nov 10 06:00:00 NOVT 2031
+
+adding as trusted cert:
+  Subject: CN=Entrust.net Certification Authority (2048), OU=(c) 1999 Entrust.net Limited, OU=www.entrust.net/CPS_2048 incorp. by ref. (limits liab.), O=Entrust.net
+  Issuer:  CN=Entrust.net Certification Authority (2048), OU=(c) 1999 Entrust.net Limited, OU=www.entrust.net/CPS_2048 incorp. by ref. (limits liab.), O=Entrust.net
+  Algorithm: RSA; Serial number: 0x3863def8
+  Valid from Fri Dec 24 23:50:51 NOVT 1999 until Tue Jul 24 20:15:12 NOVT 2029
+
+adding as trusted cert:
+  Subject: CN=thawte Primary Root CA, OU="(c) 2006 thawte, Inc. - For authorized use only", OU=Certification Services Division, O="thawte, Inc.", C=US
+  Issuer:  CN=thawte Primary Root CA, OU="(c) 2006 thawte, Inc. - For authorized use only", OU=Certification Services Division, O="thawte, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x344ed55720d5edec49f42fce37db2b6d
+  Valid from Fri Nov 17 06:00:00 NOVT 2006 until Thu Jul 17 05:59:59 NOVT 2036
+
+adding as trusted cert:
+  Subject: EMAILADDRESS=info@valicert.com, CN=http://www.valicert.com/, OU=ValiCert Class 2 Policy Validation Authority, O="ValiCert, Inc.", L=ValiCert Validation Network
+  Issuer:  EMAILADDRESS=info@valicert.com, CN=http://www.valicert.com/, OU=ValiCert Class 2 Policy Validation Authority, O="ValiCert, Inc.", L=ValiCert Validation Network
+  Algorithm: RSA; Serial number: 0x1
+  Valid from Sat Jun 26 07:19:54 NOVST 1999 until Wed Jun 26 06:19:54 NOVT 2019
+
+adding as trusted cert:
+  Subject: CN=Go Daddy Root Certificate Authority - G2, O="GoDaddy.com, Inc.", L=Scottsdale, ST=Arizona, C=US
+  Issuer:  CN=Go Daddy Root Certificate Authority - G2, O="GoDaddy.com, Inc.", L=Scottsdale, ST=Arizona, C=US
+  Algorithm: RSA; Serial number: 0x0
+  Valid from Tue Sep 01 07:00:00 NOVST 2009 until Fri Jan 01 05:59:59 NOVT 2038
+
+adding as trusted cert:
+  Subject: EMAILADDRESS=personal-freemail@thawte.com, CN=Thawte Personal Freemail CA, OU=Certification Services Division, O=Thawte Consulting, L=Cape Town, ST=Western Cape, C=ZA
+  Issuer:  EMAILADDRESS=personal-freemail@thawte.com, CN=Thawte Personal Freemail CA, OU=Certification Services Division, O=Thawte Consulting, L=Cape Town, ST=Western Cape, C=ZA
+  Algorithm: RSA; Serial number: 0x123df0e7da2a2247a43889e08aeec967
+  Valid from Mon Jan 01 06:00:00 NOVT 1996 until Sat Jan 02 05:59:59 NOVT 2021
+
+adding as trusted cert:
+  Subject: CN=GeoTrust Primary Certification Authority, O=GeoTrust Inc., C=US
+  Issuer:  CN=GeoTrust Primary Certification Authority, O=GeoTrust Inc., C=US
+  Algorithm: RSA; Serial number: 0x18acb56afd69b6153a636cafdafac4a1
+  Valid from Mon Nov 27 06:00:00 NOVT 2006 until Thu Jul 17 05:59:59 NOVT 2036
+
+adding as trusted cert:
+  Subject: CN=VeriSign Class 1 Public Primary Certification Authority - G3, OU="(c) 1999 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+  Issuer:  CN=VeriSign Class 1 Public Primary Certification Authority - G3, OU="(c) 1999 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x8b5b75568454850b00cfaf3848ceb1a4
+  Valid from Fri Oct 01 07:00:00 NOVST 1999 until Thu Jul 17 05:59:59 NOVT 2036
+
+adding as trusted cert:
+  Subject: CN=VeriSign Class 3 Public Primary Certification Authority - G4, OU="(c) 2007 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+  Issuer:  CN=VeriSign Class 3 Public Primary Certification Authority - G4, OU="(c) 2007 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+  Algorithm: EC; Serial number: 0x2f80fe238c0e220f486712289187acb3
+  Valid from Mon Nov 05 06:00:00 NOVT 2007 until Tue Jan 19 05:59:59 NOVT 2038
+
+adding as trusted cert:
+  Subject: CN=Entrust Root Certification Authority, OU="(c) 2006 Entrust, Inc.", OU=www.entrust.net/CPS is incorporated by reference, O="Entrust, Inc.", C=US
+  Issuer:  CN=Entrust Root Certification Authority, OU="(c) 2006 Entrust, Inc.", OU=www.entrust.net/CPS is incorporated by reference, O="Entrust, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x456b5054
+  Valid from Tue Nov 28 02:23:42 NOVT 2006 until Sat Nov 28 02:53:42 NOVT 2026
+
+adding as trusted cert:
+  Subject: OU=Security Communication RootCA2, O="SECOM Trust Systems CO.,LTD.", C=JP
+  Issuer:  OU=Security Communication RootCA2, O="SECOM Trust Systems CO.,LTD.", C=JP
+  Algorithm: RSA; Serial number: 0x0
+  Valid from Fri May 29 12:00:39 NOVST 2009 until Tue May 29 11:00:39 NOVT 2029
+
+adding as trusted cert:
+  Subject: OU=VeriSign Trust Network, OU="(c) 1998 VeriSign, Inc. - For authorized use only", OU=Class 3 Public Primary Certification Authority - G2, O="VeriSign, Inc.", C=US
+  Issuer:  OU=VeriSign Trust Network, OU="(c) 1998 VeriSign, Inc. - For authorized use only", OU=Class 3 Public Primary Certification Authority - G2, O="VeriSign, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x7dd9fe07cfa81eb7107967fba78934c6
+  Valid from Mon May 18 07:00:00 NOVST 1998 until Wed Aug 02 05:59:59 NOVT 2028
+
+adding as trusted cert:
+  Subject: OU=ePKI Root Certification Authority, O="Chunghwa Telecom Co., Ltd.", C=TW
+  Issuer:  OU=ePKI Root Certification Authority, O="Chunghwa Telecom Co., Ltd.", C=TW
+  Algorithm: RSA; Serial number: 0x15c8bd65475cafb897005ee406d2bc9d
+  Valid from Mon Dec 20 08:31:27 NOVT 2004 until Wed Dec 20 08:31:27 NOVT 2034
+
+adding as trusted cert:
+  Subject: CN=AffirmTrust Commercial, O=AffirmTrust, C=US
+  Issuer:  CN=AffirmTrust Commercial, O=AffirmTrust, C=US
+  Algorithm: RSA; Serial number: 0x7777062726a9b17c
+  Valid from Fri Jan 29 20:06:06 NOVT 2010 until Tue Dec 31 20:06:06 NOVT 2030
+
+adding as trusted cert:
+  Subject: CN=TC TrustCenter Universal CA I, OU=TC TrustCenter Universal CA, O=TC TrustCenter GmbH, C=DE
+  Issuer:  CN=TC TrustCenter Universal CA I, OU=TC TrustCenter Universal CA, O=TC TrustCenter GmbH, C=DE
+  Algorithm: RSA; Serial number: 0x1da200010002ecb76080788db606
+  Valid from Wed Mar 22 21:54:28 NOVT 2006 until Thu Jan 01 04:59:59 NOVT 2026
+
+adding as trusted cert:
+  Subject: CN=Certum Trusted Network CA, OU=Certum Certification Authority, O=Unizeto Technologies S.A., C=PL
+  Issuer:  CN=Certum Trusted Network CA, OU=Certum Certification Authority, O=Unizeto Technologies S.A., C=PL
+  Algorithm: RSA; Serial number: 0x444c0
+  Valid from Wed Oct 22 19:07:37 NOVST 2008 until Mon Dec 31 18:07:37 NOVT 2029
+
+adding as trusted cert:
+  Subject: CN=avast! Web/Mail Shield Root, O=avast! Web/Mail Shield, OU=generated by avast! antivirus for SSL/TLS scanning
+  Issuer:  CN=avast! Web/Mail Shield Root, O=avast! Web/Mail Shield, OU=generated by avast! antivirus for SSL/TLS scanning
+  Algorithm: RSA; Serial number: 0x4d41de1828b3fb41b87755db3471657f
+  Valid from Sat Aug 15 22:15:44 NOVT 2015 until Tue Aug 12 22:15:44 NOVT 2025
+
+adding as trusted cert:
+  Subject: CN=Certum CA, O=Unizeto Sp. z o.o., C=PL
+  Issuer:  CN=Certum CA, O=Unizeto Sp. z o.o., C=PL
+  Algorithm: RSA; Serial number: 0x10020
+  Valid from Tue Jun 11 17:46:39 NOVST 2002 until Fri Jun 11 16:46:39 NOVT 2027
+
+adding as trusted cert:
+  Subject: CN=XRamp Global Certification Authority, O=XRamp Security Services Inc, OU=www.xrampsecurity.com, C=US
+  Issuer:  CN=XRamp Global Certification Authority, O=XRamp Security Services Inc, OU=www.xrampsecurity.com, C=US
+  Algorithm: RSA; Serial number: 0x50946cec18ead59c4dd597ef758fa0ad
+  Valid from Mon Nov 01 23:14:04 NOVT 2004 until Mon Jan 01 11:37:19 NOVT 2035
+
+adding as trusted cert:
+  Subject: CN=AddTrust Qualified CA Root, OU=AddTrust TTP Network, O=AddTrust AB, C=SE
+  Issuer:  CN=AddTrust Qualified CA Root, OU=AddTrust TTP Network, O=AddTrust AB, C=SE
+  Algorithm: RSA; Serial number: 0x1
+  Valid from Tue May 30 17:44:50 NOVST 2000 until Sat May 30 16:44:50 NOVT 2020
+
+adding as trusted cert:
+  Subject: CN=Buypass Class 2 Root CA, O=Buypass AS-983163327, C=NO
+  Issuer:  CN=Buypass Class 2 Root CA, O=Buypass AS-983163327, C=NO
+  Algorithm: RSA; Serial number: 0x2
+  Valid from Tue Oct 26 15:38:03 NOVST 2010 until Fri Oct 26 14:38:03 NOVT 2040
+
+adding as trusted cert:
+  Subject: CN=TC TrustCenter Class 2 CA II, OU=TC TrustCenter Class 2 CA, O=TC TrustCenter GmbH, C=DE
+  Issuer:  CN=TC TrustCenter Class 2 CA II, OU=TC TrustCenter Class 2 CA, O=TC TrustCenter GmbH, C=DE
+  Algorithm: RSA; Serial number: 0x2e6a000100021fd752212c115c3b
+  Valid from Thu Jan 12 20:38:43 NOVT 2006 until Thu Jan 01 04:59:59 NOVT 2026
+
+adding as trusted cert:
+  Subject: CN=Sonera Class2 CA, O=Sonera, C=FI
+  Issuer:  CN=Sonera Class2 CA, O=Sonera, C=FI
+  Algorithm: RSA; Serial number: 0x1d
+  Valid from Fri Apr 06 14:29:40 NOVST 2001 until Tue Apr 06 13:29:40 NOVT 2021
+
+adding as trusted cert:
+  Subject: CN=America Online Root Certification Authority 1, O=America Online Inc., C=US
+  Issuer:  CN=America Online Root Certification Authority 1, O=America Online Inc., C=US
+  Algorithm: RSA; Serial number: 0x1
+  Valid from Tue May 28 13:00:00 NOVST 2002 until Fri Nov 20 02:43:00 NOVT 2037
+
+adding as trusted cert:
+  Subject: CN=GeoTrust Primary Certification Authority - G2, OU=(c) 2007 GeoTrust Inc. - For authorized use only, O=GeoTrust Inc., C=US
+  Issuer:  CN=GeoTrust Primary Certification Authority - G2, OU=(c) 2007 GeoTrust Inc. - For authorized use only, O=GeoTrust Inc., C=US
+  Algorithm: EC; Serial number: 0x3cb2f4480a00e2feeb243b5e603ec36b
+  Valid from Mon Nov 05 06:00:00 NOVT 2007 until Tue Jan 19 05:59:59 NOVT 2038
+
+adding as trusted cert:
+  Subject: CN=SwissSign Gold CA - G2, O=SwissSign AG, C=CH
+  Issuer:  CN=SwissSign Gold CA - G2, O=SwissSign AG, C=CH
+  Algorithm: RSA; Serial number: 0xbb401c43f55e4fb0
+  Valid from Wed Oct 25 15:30:35 NOVST 2006 until Sat Oct 25 14:30:35 NOVT 2036
+
+adding as trusted cert:
+  Subject: CN=UTN - DATACorp SGC, OU=http://www.usertrust.com, O=The USERTRUST Network, L=Salt Lake City, ST=UT, C=US
+  Issuer:  CN=UTN - DATACorp SGC, OU=http://www.usertrust.com, O=The USERTRUST Network, L=Salt Lake City, ST=UT, C=US
+  Algorithm: RSA; Serial number: 0x44be0c8b500021b411d32a6806a9ad69
+  Valid from Fri Jun 25 01:57:21 NOVST 1999 until Tue Jun 25 01:06:30 NOVT 2019
+
+adding as trusted cert:
+  Subject: CN=QuoVadis Root CA 2, O=QuoVadis Limited, C=BM
+  Issuer:  CN=QuoVadis Root CA 2, O=QuoVadis Limited, C=BM
+  Algorithm: RSA; Serial number: 0x509
+  Valid from Sat Nov 25 00:27:00 NOVT 2006 until Tue Nov 25 00:23:33 NOVT 2031
+
+adding as trusted cert:
+  Subject: CN=Deutsche Telekom Root CA 2, OU=T-TeleSec Trust Center, O=Deutsche Telekom AG, C=DE
+  Issuer:  CN=Deutsche Telekom Root CA 2, OU=T-TeleSec Trust Center, O=Deutsche Telekom AG, C=DE
+  Algorithm: RSA; Serial number: 0x26
+  Valid from Fri Jul 09 19:11:00 NOVST 1999 until Wed Jul 10 05:59:00 NOVT 2019
+
+adding as trusted cert:
+  Subject: OU=Equifax Secure Certificate Authority, O=Equifax, C=US
+  Issuer:  OU=Equifax Secure Certificate Authority, O=Equifax, C=US
+  Algorithm: RSA; Serial number: 0x35def4cf
+  Valid from Sat Aug 22 23:41:51 NOVST 1998 until Wed Aug 22 22:41:51 NOVT 2018
+
+adding as trusted cert:
+  Subject: OU=Class 1 Public Primary Certification Authority, O="VeriSign, Inc.", C=US
+  Issuer:  OU=Class 1 Public Primary Certification Authority, O="VeriSign, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x3f691e819cf09a4af373ffb948a2e4dd
+  Valid from Mon Jan 29 06:00:00 NOVT 1996 until Thu Aug 03 05:59:59 NOVT 2028
+
+adding as trusted cert:
+  Subject: CN=DigiCert High Assurance EV Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US
+  Issuer:  CN=DigiCert High Assurance EV Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US
+  Algorithm: RSA; Serial number: 0x2ac5c266a0b409b8f0b79f2ae462577
+  Valid from Fri Nov 10 06:00:00 NOVT 2006 until Mon Nov 10 06:00:00 NOVT 2031
+
+adding as trusted cert:
+  Subject: OU=VeriSign Trust Network, OU="(c) 1998 VeriSign, Inc. - For authorized use only", OU=Class 2 Public Primary Certification Authority - G2, O="VeriSign, Inc.", C=US
+  Issuer:  OU=VeriSign Trust Network, OU="(c) 1998 VeriSign, Inc. - For authorized use only", OU=Class 2 Public Primary Certification Authority - G2, O="VeriSign, Inc.", C=US
+  Algorithm: RSA; Serial number: 0xb92f60cc889fa17a4609b85b706c8aaf
+  Valid from Mon May 18 07:00:00 NOVST 1998 until Wed Aug 02 05:59:59 NOVT 2028
+
+adding as trusted cert:
+  Subject: CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU="(c) 2006 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+  Issuer:  CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU="(c) 2006 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x18dad19e267de8bb4a2158cdcc6b3b4a
+  Valid from Wed Nov 08 06:00:00 NOVT 2006 until Thu Jul 17 05:59:59 NOVT 2036
+
+adding as trusted cert:
+  Subject: CN=GlobalSign, O=GlobalSign, OU=GlobalSign Root CA - R2
+  Issuer:  CN=GlobalSign, O=GlobalSign, OU=GlobalSign Root CA - R2
+  Algorithm: RSA; Serial number: 0x400000000010f8626e60d
+  Valid from Fri Dec 15 14:00:00 NOVT 2006 until Wed Dec 15 14:00:00 NOVT 2021
+
+adding as trusted cert:
+  Subject: CN=QuoVadis Root CA 3, O=QuoVadis Limited, C=BM
+  Issuer:  CN=QuoVadis Root CA 3, O=QuoVadis Limited, C=BM
+  Algorithm: RSA; Serial number: 0x5c6
+  Valid from Sat Nov 25 01:11:23 NOVT 2006 until Tue Nov 25 01:06:44 NOVT 2031
+
+adding as trusted cert:
+  Subject: CN=GeoTrust Universal CA, O=GeoTrust Inc., C=US
+  Issuer:  CN=GeoTrust Universal CA, O=GeoTrust Inc., C=US
+  Algorithm: RSA; Serial number: 0x1
+  Valid from Thu Mar 04 11:00:00 NOVT 2004 until Sun Mar 04 11:00:00 NOVT 2029
+
+adding as trusted cert:
+  Subject: CN=GlobalSign, O=GlobalSign, OU=GlobalSign Root CA - R3
+  Issuer:  CN=GlobalSign, O=GlobalSign, OU=GlobalSign Root CA - R3
+  Algorithm: RSA; Serial number: 0x4000000000121585308a2
+  Valid from Wed Mar 18 16:00:00 NOVT 2009 until Sun Mar 18 16:00:00 NOVT 2029
+
+adding as trusted cert:
+  Subject: CN=Starfield Services Root Certificate Authority - G2, O="Starfield Technologies, Inc.", L=Scottsdale, ST=Arizona, C=US
+  Issuer:  CN=Starfield Services Root Certificate Authority - G2, O="Starfield Technologies, Inc.", L=Scottsdale, ST=Arizona, C=US
+  Algorithm: RSA; Serial number: 0x0
+  Valid from Tue Sep 01 07:00:00 NOVST 2009 until Fri Jan 01 05:59:59 NOVT 2038
+
+adding as trusted cert:
+  Subject: CN=Baltimore CyberTrust Root, OU=CyberTrust, O=Baltimore, C=IE
+  Issuer:  CN=Baltimore CyberTrust Root, OU=CyberTrust, O=Baltimore, C=IE
+  Algorithm: RSA; Serial number: 0x20000b9
+  Valid from Sat May 13 01:46:00 NOVST 2000 until Tue May 13 05:59:00 NOVT 2025
+
+adding as trusted cert:
+  Subject: OU=Starfield Class 2 Certification Authority, O="Starfield Technologies, Inc.", C=US
+  Issuer:  OU=Starfield Class 2 Certification Authority, O="Starfield Technologies, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x0
+  Valid from Wed Jun 30 00:39:16 NOVST 2004 until Thu Jun 29 23:39:16 NOVT 2034
+
+adding as trusted cert:
+  Subject: CN=Thawte Timestamping CA, OU=Thawte Certification, O=Thawte, L=Durbanville, ST=Western Cape, C=ZA
+  Issuer:  CN=Thawte Timestamping CA, OU=Thawte Certification, O=Thawte, L=Durbanville, ST=Western Cape, C=ZA
+  Algorithm: RSA; Serial number: 0x67c8e1e8e3be1cbdfc913b8ea6238749
+  Valid from Wed Jan 01 06:00:00 NOVT 1997 until Sat Jan 02 05:59:59 NOVT 2021
+
+adding as trusted cert:
+  Subject: CN=AAA Certificate Services, O=Comodo CA Limited, L=Salford, ST=Greater Manchester, C=GB
+  Issuer:  CN=AAA Certificate Services, O=Comodo CA Limited, L=Salford, ST=Greater Manchester, C=GB
+  Algorithm: RSA; Serial number: 0x1
+  Valid from Thu Jan 01 06:00:00 NOVT 2004 until Mon Jan 01 05:59:59 NOVT 2029
+
+adding as trusted cert:
+  Subject: CN=UTN-USERFirst-Hardware, OU=http://www.usertrust.com, O=The USERTRUST Network, L=Salt Lake City, ST=UT, C=US
+  Issuer:  CN=UTN-USERFirst-Hardware, OU=http://www.usertrust.com, O=The USERTRUST Network, L=Salt Lake City, ST=UT, C=US
+  Algorithm: RSA; Serial number: 0x44be0c8b500024b411d3362afe650afd
+  Valid from Sat Jul 10 01:10:42 NOVST 1999 until Wed Jul 10 00:19:22 NOVT 2019
+
+adding as trusted cert:
+  Subject: CN=Chambers of Commerce Root, OU=http://www.chambersign.org, O=AC Camerfirma SA CIF A82743287, C=EU
+  Issuer:  CN=Chambers of Commerce Root, OU=http://www.chambersign.org, O=AC Camerfirma SA CIF A82743287, C=EU
+  Algorithm: RSA; Serial number: 0x0
+  Valid from Tue Sep 30 23:13:43 NOVST 2003 until Wed Sep 30 22:13:44 NOVT 2037
+
+adding as trusted cert:
+  Subject: CN=Swisscom Root CA 2, OU=Digital Certificate Services, O=Swisscom, C=ch
+  Issuer:  CN=Swisscom Root CA 2, OU=Digital Certificate Services, O=Swisscom, C=ch
+  Algorithm: RSA; Serial number: 0x1e9e28e848f2e5efc37c4a1e5a1867b6
+  Valid from Fri Jun 24 15:38:14 NOVT 2011 until Wed Jun 25 13:38:14 NOVT 2031
+
+adding as trusted cert:
+  Subject: CN=VeriSign Class 3 Public Primary Certification Authority - G3, OU="(c) 1999 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+  Issuer:  CN=VeriSign Class 3 Public Primary Certification Authority - G3, OU="(c) 1999 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x9b7e0649a33e62b9d5ee90487129ef57
+  Valid from Fri Oct 01 07:00:00 NOVST 1999 until Thu Jul 17 05:59:59 NOVT 2036
+
+adding as trusted cert:
+  Subject: CN=GlobalSign Root CA, OU=Root CA, O=GlobalSign nv-sa, C=BE
+  Issuer:  CN=GlobalSign Root CA, OU=Root CA, O=GlobalSign nv-sa, C=BE
+  Algorithm: RSA; Serial number: 0x40000000001154b5ac394
+  Valid from Tue Sep 01 19:00:00 NOVST 1998 until Fri Jan 28 18:00:00 NOVT 2028
+
+adding as trusted cert:
+  Subject: CN=UTN-USERFirst-Object, OU=http://www.usertrust.com, O=The USERTRUST Network, L=Salt Lake City, ST=UT, C=US
+  Issuer:  CN=UTN-USERFirst-Object, OU=http://www.usertrust.com, O=The USERTRUST Network, L=Salt Lake City, ST=UT, C=US
+  Algorithm: RSA; Serial number: 0x44be0c8b500024b411d3362de0b35f1b
+  Valid from Sat Jul 10 01:31:20 NOVST 1999 until Wed Jul 10 00:40:36 NOVT 2019
+
+adding as trusted cert:
+  Subject: EMAILADDRESS=server-certs@thawte.com, CN=Thawte Server CA, OU=Certification Services Division, O=Thawte Consulting cc, L=Cape Town, ST=Western Cape, C=ZA
+  Issuer:  EMAILADDRESS=server-certs@thawte.com, CN=Thawte Server CA, OU=Certification Services Division, O=Thawte Consulting cc, L=Cape Town, ST=Western Cape, C=ZA
+  Algorithm: RSA; Serial number: 0x34a4fff630af4ca53c331742a1946675
+  Valid from Thu Aug 01 07:00:00 NOVST 1996 until Sat Jan 02 05:59:59 NOVT 2021
+
+adding as trusted cert:
+  Subject: CN=AffirmTrust Networking, O=AffirmTrust, C=US
+  Issuer:  CN=AffirmTrust Networking, O=AffirmTrust, C=US
+  Algorithm: RSA; Serial number: 0x7c4f04391cd4992d
+  Valid from Fri Jan 29 20:08:24 NOVT 2010 until Tue Dec 31 20:08:24 NOVT 2030
+
+adding as trusted cert:
+  Subject: OU=Class 3 Public Primary Certification Authority, O="VeriSign, Inc.", C=US
+  Issuer:  OU=Class 3 Public Primary Certification Authority, O="VeriSign, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x3c9131cb1ff6d01b0e9ab8d044bf12be
+  Valid from Mon Jan 29 06:00:00 NOVT 1996 until Thu Aug 03 05:59:59 NOVT 2028
+
+adding as trusted cert:
+  Subject: CN=AffirmTrust Premium, O=AffirmTrust, C=US
+  Issuer:  CN=AffirmTrust Premium, O=AffirmTrust, C=US
+  Algorithm: RSA; Serial number: 0x6d8c1446b1a60aee
+  Valid from Fri Jan 29 20:10:36 NOVT 2010 until Mon Dec 31 20:10:36 NOVT 2040
+
+adding as trusted cert:
+  Subject: CN=TC TrustCenter Class 4 CA II, OU=TC TrustCenter Class 4 CA, O=TC TrustCenter GmbH, C=DE
+  Issuer:  CN=TC TrustCenter Class 4 CA II, OU=TC TrustCenter Class 4 CA, O=TC TrustCenter GmbH, C=DE
+  Algorithm: RSA; Serial number: 0x5c00001000241d0060a4dce7510
+  Valid from Thu Mar 23 20:10:23 NOVT 2006 until Thu Jan 01 04:59:59 NOVT 2026
+
+adding as trusted cert:
+  Subject: CN=Baltimore CyberTrust Code Signing Root, OU=CyberTrust, O=Baltimore, C=IE
+  Issuer:  CN=Baltimore CyberTrust Code Signing Root, OU=CyberTrust, O=Baltimore, C=IE
+  Algorithm: RSA; Serial number: 0x20000bf
+  Valid from Wed May 17 21:01:00 NOVST 2000 until Sun May 18 05:59:00 NOVT 2025
+
+adding as trusted cert:
+  Subject: CN=America Online Root Certification Authority 2, O=America Online Inc., C=US
+  Issuer:  CN=America Online Root Certification Authority 2, O=America Online Inc., C=US
+  Algorithm: RSA; Serial number: 0x1
+  Valid from Tue May 28 13:00:00 NOVST 2002 until Tue Sep 29 20:08:00 NOVT 2037
+
+adding as trusted cert:
+  Subject: CN=LuxTrust Global Root, O=LuxTrust s.a., C=LU
+  Issuer:  CN=LuxTrust Global Root, O=LuxTrust s.a., C=LU
+  Algorithm: RSA; Serial number: 0xbb8
+  Valid from Thu Mar 17 15:51:37 NOVT 2011 until Wed Mar 17 15:51:37 NOVT 2021
+
+adding as trusted cert:
+  Subject: CN=QuoVadis Root Certification Authority, OU=Root Certification Authority, O=QuoVadis Limited, C=BM
+  Issuer:  CN=QuoVadis Root Certification Authority, OU=Root Certification Authority, O=QuoVadis Limited, C=BM
+  Algorithm: RSA; Serial number: 0x3ab6508b
+  Valid from Tue Mar 20 00:33:33 NOVT 2001 until Thu Mar 18 00:33:33 NOVT 2021
+
+adding as trusted cert:
+  Subject: CN=Class 3P Primary CA, O=Certplus, C=FR
+  Issuer:  CN=Class 3P Primary CA, O=Certplus, C=FR
+  Algorithm: RSA; Serial number: 0xbf5cdbb6f21c6ec04deb7a023b36e879
+  Valid from Thu Jul 08 00:10:00 NOVST 1999 until Sun Jul 07 05:59:59 NOVT 2019
+
+adding as trusted cert:
+  Subject: CN=Equifax Secure eBusiness CA-1, O=Equifax Secure Inc., C=US
+  Issuer:  CN=Equifax Secure eBusiness CA-1, O=Equifax Secure Inc., C=US
+  Algorithm: RSA; Serial number: 0x59e3
+  Valid from Mon Jun 21 11:00:00 NOVST 1999 until Mon Jun 22 10:00:00 NOVT 2020
+
+adding as trusted cert:
+  Subject: CN=Buypass Class 3 Root CA, O=Buypass AS-983163327, C=NO
+  Issuer:  CN=Buypass Class 3 Root CA, O=Buypass AS-983163327, C=NO
+  Algorithm: RSA; Serial number: 0x2
+  Valid from Tue Oct 26 15:28:58 NOVST 2010 until Fri Oct 26 14:28:58 NOVT 2040
+
+adding as trusted cert:
+  Subject: OU=Security Communication EV RootCA1, O="SECOM Trust Systems CO.,LTD.", C=JP
+  Issuer:  OU=Security Communication EV RootCA1, O="SECOM Trust Systems CO.,LTD.", C=JP
+  Algorithm: RSA; Serial number: 0x0
+  Valid from Wed Jun 06 09:12:32 NOVST 2007 until Sat Jun 06 08:12:32 NOVT 2037
+
+adding as trusted cert:
+  Subject: CN=GeoTrust Primary Certification Authority - G3, OU=(c) 2008 GeoTrust Inc. - For authorized use only, O=GeoTrust Inc., C=US
+  Issuer:  CN=GeoTrust Primary Certification Authority - G3, OU=(c) 2008 GeoTrust Inc. - For authorized use only, O=GeoTrust Inc., C=US
+  Algorithm: RSA; Serial number: 0x15ac6e9419b2794b41f627a9c3180f1f
+  Valid from Wed Apr 02 07:00:00 NOVST 2008 until Wed Dec 02 05:59:59 NOVT 2037
+
+adding as trusted cert:
+  Subject: CN=thawte Primary Root CA - G2, OU="(c) 2007 thawte, Inc. - For authorized use only", O="thawte, Inc.", C=US
+  Issuer:  CN=thawte Primary Root CA - G2, OU="(c) 2007 thawte, Inc. - For authorized use only", O="thawte, Inc.", C=US
+  Algorithm: EC; Serial number: 0x35fc265cd9844fc93d263d579baed756
+  Valid from Mon Nov 05 06:00:00 NOVT 2007 until Tue Jan 19 05:59:59 NOVT 2038
+
+adding as trusted cert:
+  Subject: CN=Swisscom Root EV CA 2, OU=Digital Certificate Services, O=Swisscom, C=ch
+  Issuer:  CN=Swisscom Root EV CA 2, OU=Digital Certificate Services, O=Swisscom, C=ch
+  Algorithm: RSA; Serial number: 0xf2fa64e27463d38dfd101d041f76ca58
+  Valid from Fri Jun 24 16:45:08 NOVT 2011 until Wed Jun 25 14:45:08 NOVT 2031
+
+adding as trusted cert:
+  Subject: CN=VeriSign Universal Root Certification Authority, OU="(c) 2008 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+  Issuer:  CN=VeriSign Universal Root Certification Authority, OU="(c) 2008 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x401ac46421b31321030ebbe4121ac51d
+  Valid from Wed Apr 02 07:00:00 NOVST 2008 until Wed Dec 02 05:59:59 NOVT 2037
+
+adding as trusted cert:
+  Subject: CN=Chambers of Commerce Root - 2008, O=AC Camerfirma S.A., SERIALNUMBER=A82743287, L=Madrid (see current address at www.camerfirma.com/address), C=EU
+  Issuer:  CN=Chambers of Commerce Root - 2008, O=AC Camerfirma S.A., SERIALNUMBER=A82743287, L=Madrid (see current address at www.camerfirma.com/address), C=EU
+  Algorithm: RSA; Serial number: 0xa3da427ea4b1aeda
+  Valid from Fri Aug 01 19:29:50 NOVST 2008 until Sat Jul 31 18:29:50 NOVT 2038
+
+adding as trusted cert:
+  Subject: CN=SwissSign Silver CA - G2, O=SwissSign AG, C=CH
+  Issuer:  CN=SwissSign Silver CA - G2, O=SwissSign AG, C=CH
+  Algorithm: RSA; Serial number: 0x4f1bd42f54bb2f4b
+  Valid from Wed Oct 25 15:32:46 NOVST 2006 until Sat Oct 25 14:32:46 NOVT 2036
+
+adding as trusted cert:
+  Subject: CN=Entrust Root Certification Authority - G2, OU="(c) 2009 Entrust, Inc. - for authorized use only", OU=See www.entrust.net/legal-terms, O="Entrust, Inc.", C=US
+  Issuer:  CN=Entrust Root Certification Authority - G2, OU="(c) 2009 Entrust, Inc. - for authorized use only", OU=See www.entrust.net/legal-terms, O="Entrust, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x4a538c28
+  Valid from Wed Jul 08 00:25:54 NOVST 2009 until Sat Dec 07 23:55:54 NOVT 2030
+
+adding as trusted cert:
+  Subject: CN=AddTrust Class 1 CA Root, OU=AddTrust TTP Network, O=AddTrust AB, C=SE
+  Issuer:  CN=AddTrust Class 1 CA Root, OU=AddTrust TTP Network, O=AddTrust AB, C=SE
+  Algorithm: RSA; Serial number: 0x1
+  Valid from Tue May 30 17:38:31 NOVST 2000 until Sat May 30 16:38:31 NOVT 2020
+
+adding as trusted cert:
+  Subject: CN=DigiCert Assured ID Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US
+  Issuer:  CN=DigiCert Assured ID Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US
+  Algorithm: RSA; Serial number: 0xce7e0e517d846fe8fe560fc1bf03039
+  Valid from Fri Nov 10 06:00:00 NOVT 2006 until Mon Nov 10 06:00:00 NOVT 2031
+
+adding as trusted cert:
+  Subject: OU=Go Daddy Class 2 Certification Authority, O="The Go Daddy Group, Inc.", C=US
+  Issuer:  OU=Go Daddy Class 2 Certification Authority, O="The Go Daddy Group, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x0
+  Valid from Wed Jun 30 00:06:20 NOVST 2004 until Thu Jun 29 23:06:20 NOVT 2034
+
+adding as trusted cert:
+  Subject: CN=AddTrust External CA Root, OU=AddTrust External TTP Network, O=AddTrust AB, C=SE
+  Issuer:  CN=AddTrust External CA Root, OU=AddTrust External TTP Network, O=AddTrust AB, C=SE
+  Algorithm: RSA; Serial number: 0x1
+  Valid from Tue May 30 17:48:38 NOVST 2000 until Sat May 30 16:48:38 NOVT 2020
+
+adding as trusted cert:
+  Subject: CN=T-TeleSec GlobalRoot Class 3, OU=T-Systems Trust Center, O=T-Systems Enterprise Services GmbH, C=DE
+  Issuer:  CN=T-TeleSec GlobalRoot Class 3, OU=T-Systems Trust Center, O=T-Systems Enterprise Services GmbH, C=DE
+  Algorithm: RSA; Serial number: 0x1
+  Valid from Wed Oct 01 17:29:56 NOVST 2008 until Sun Oct 02 05:59:59 NOVT 2033
+
+adding as trusted cert:
+  Subject: CN=Global Chambersign Root - 2008, O=AC Camerfirma S.A., SERIALNUMBER=A82743287, L=Madrid (see current address at www.camerfirma.com/address), C=EU
+  Issuer:  CN=Global Chambersign Root - 2008, O=AC Camerfirma S.A., SERIALNUMBER=A82743287, L=Madrid (see current address at www.camerfirma.com/address), C=EU
+  Algorithm: RSA; Serial number: 0xc9cdd3e9d57d23ce
+  Valid from Fri Aug 01 19:31:40 NOVST 2008 until Sat Jul 31 18:31:40 NOVT 2038
+
+adding as trusted cert:
+  Subject: EMAILADDRESS=info@valicert.com, CN=http://www.valicert.com/, OU=ValiCert Class 1 Policy Validation Authority, O="ValiCert, Inc.", L=ValiCert Validation Network
+  Issuer:  EMAILADDRESS=info@valicert.com, CN=http://www.valicert.com/, OU=ValiCert Class 1 Policy Validation Authority, O="ValiCert, Inc.", L=ValiCert Validation Network
+  Algorithm: RSA; Serial number: 0x1
+  Valid from Sat Jun 26 05:23:48 NOVST 1999 until Wed Jun 26 04:23:48 NOVT 2019
+
+adding as trusted cert:
+  Subject: CN=thawte Primary Root CA - G3, OU="(c) 2008 thawte, Inc. - For authorized use only", OU=Certification Services Division, O="thawte, Inc.", C=US
+  Issuer:  CN=thawte Primary Root CA - G3, OU="(c) 2008 thawte, Inc. - For authorized use only", OU=Certification Services Division, O="thawte, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x600197b746a7eab4b49ad64b2ff790fb
+  Valid from Wed Apr 02 07:00:00 NOVST 2008 until Wed Dec 02 05:59:59 NOVT 2037
+
+adding as trusted cert:
+  Subject: EMAILADDRESS=premium-server@thawte.com, CN=Thawte Premium Server CA, OU=Certification Services Division, O=Thawte Consulting cc, L=Cape Town, ST=Western Cape, C=ZA
+  Issuer:  EMAILADDRESS=premium-server@thawte.com, CN=Thawte Premium Server CA, OU=Certification Services Division, O=Thawte Consulting cc, L=Cape Town, ST=Western Cape, C=ZA
+  Algorithm: RSA; Serial number: 0x36122296c5e338a520a1d25f4cd70954
+  Valid from Thu Aug 01 07:00:00 NOVST 1996 until Sat Jan 02 05:59:59 NOVT 2021
+
+adding as trusted cert:
+  Subject: CN=GTE CyberTrust Global Root, OU="GTE CyberTrust Solutions, Inc.", O=GTE Corporation, C=US
+  Issuer:  CN=GTE CyberTrust Global Root, OU="GTE CyberTrust Solutions, Inc.", O=GTE Corporation, C=US
+  Algorithm: RSA; Serial number: 0x1a5
+  Valid from Thu Aug 13 07:29:00 NOVST 1998 until Tue Aug 14 05:59:00 NOVT 2018
+
+adding as trusted cert:
+  Subject: CN=UTN-USERFirst-Client Authentication and Email, OU=http://www.usertrust.com, O=The USERTRUST Network, L=Salt Lake City, ST=UT, C=US
+  Issuer:  CN=UTN-USERFirst-Client Authentication and Email, OU=http://www.usertrust.com, O=The USERTRUST Network, L=Salt Lake City, ST=UT, C=US
+  Algorithm: RSA; Serial number: 0x44be0c8b500024b411d336252567c989
+  Valid from Sat Jul 10 00:28:50 NOVST 1999 until Tue Jul 09 23:36:58 NOVT 2019
+
+adding as trusted cert:
+  Subject: CN=Class 2 Primary CA, O=Certplus, C=FR
+  Issuer:  CN=Class 2 Primary CA, O=Certplus, C=FR
+  Algorithm: RSA; Serial number: 0x85bd4bf3d8dae369f694d75fc3a54423
+  Valid from Thu Jul 08 00:05:00 NOVST 1999 until Sun Jul 07 05:59:59 NOVT 2019
+
+adding as trusted cert:
+  Subject: CN=AffirmTrust Premium ECC, O=AffirmTrust, C=US
+  Issuer:  CN=AffirmTrust Premium ECC, O=AffirmTrust, C=US
+  Algorithm: EC; Serial number: 0x7497258ac73f7a54
+  Valid from Fri Jan 29 20:20:24 NOVT 2010 until Mon Dec 31 20:20:24 NOVT 2040
+
+adding as trusted cert:
+  Subject: CN=T-TeleSec GlobalRoot Class 2, OU=T-Systems Trust Center, O=T-Systems Enterprise Services GmbH, C=DE
+  Issuer:  CN=T-TeleSec GlobalRoot Class 2, OU=T-Systems Trust Center, O=T-Systems Enterprise Services GmbH, C=DE
+  Algorithm: RSA; Serial number: 0x1
+  Valid from Wed Oct 01 17:40:14 NOVST 2008 until Sun Oct 02 05:59:59 NOVT 2033
+
+adding as trusted cert:
+  Subject: CN=GeoTrust Global CA, O=GeoTrust Inc., C=US
+  Issuer:  CN=GeoTrust Global CA, O=GeoTrust Inc., C=US
+  Algorithm: RSA; Serial number: 0x23456
+  Valid from Tue May 21 11:00:00 NOVST 2002 until Sat May 21 10:00:00 NOVT 2022
+
+adding as trusted cert:
+  Subject: CN=Sonera Class1 CA, O=Sonera, C=FI
+  Issuer:  CN=Sonera Class1 CA, O=Sonera, C=FI
+  Algorithm: RSA; Serial number: 0x24
+  Valid from Fri Apr 06 17:49:13 NOVST 2001 until Tue Apr 06 16:49:13 NOVT 2021
+
+adding as trusted cert:
+  Subject: CN=SwissSign Platinum CA - G2, O=SwissSign AG, C=CH
+  Issuer:  CN=SwissSign Platinum CA - G2, O=SwissSign AG, C=CH
+  Algorithm: RSA; Serial number: 0x4eb200670c035d4f
+  Valid from Wed Oct 25 15:36:00 NOVST 2006 until Sat Oct 25 14:36:00 NOVT 2036
+
+adding as trusted cert:
+  Subject: OU=VeriSign Trust Network, OU="(c) 1998 VeriSign, Inc. - For authorized use only", OU=Class 1 Public Primary Certification Authority - G2, O="VeriSign, Inc.", C=US
+  Issuer:  OU=VeriSign Trust Network, OU="(c) 1998 VeriSign, Inc. - For authorized use only", OU=Class 1 Public Primary Certification Authority - G2, O="VeriSign, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x4cc7eaaa983e71d39310f83d3a899192
+  Valid from Mon May 18 07:00:00 NOVST 1998 until Wed Aug 02 05:59:59 NOVT 2028
+
+adding as trusted cert:
+  Subject: CN=KEYNECTIS ROOT CA, OU=ROOT, O=KEYNECTIS, C=FR
+  Issuer:  CN=KEYNECTIS ROOT CA, OU=ROOT, O=KEYNECTIS, C=FR
+  Algorithm: RSA; Serial number: 0x1121bc276c5547af584eefd4ced629b2a285
+  Valid from Tue May 26 07:00:00 NOVST 2009 until Tue May 26 06:00:00 NOVT 2020
+
+trigger seeding of SecureRandom
+done seeding SecureRandom
+Allow unsafe renegotiation: false
+Allow legacy hello messages: true
+Is initial handshake: true
+Is secure renegotiation: false
+Image Fetcher 0, setSoTimeout(0) called
+Ignoring unsupported cipher suite: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384 for TLSv1
+Ignoring unsupported cipher suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 for TLSv1
+Ignoring unsupported cipher suite: TLS_RSA_WITH_AES_256_CBC_SHA256 for TLSv1
+Ignoring unsupported cipher suite: TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384 for TLSv1
+Ignoring unsupported cipher suite: TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384 for TLSv1
+Ignoring unsupported cipher suite: TLS_DHE_RSA_WITH_AES_256_CBC_SHA256 for TLSv1
+Ignoring unsupported cipher suite: TLS_DHE_DSS_WITH_AES_256_CBC_SHA256 for TLSv1
+Ignoring unsupported cipher suite: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384 for TLSv1.1
+Ignoring unsupported cipher suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 for TLSv1.1
+Ignoring unsupported cipher suite: TLS_RSA_WITH_AES_256_CBC_SHA256 for TLSv1.1
+Ignoring unsupported cipher suite: TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384 for TLSv1.1
+Ignoring unsupported cipher suite: TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384 for TLSv1.1
+Ignoring unsupported cipher suite: TLS_DHE_RSA_WITH_AES_256_CBC_SHA256 for TLSv1.1
+Ignoring unsupported cipher suite: TLS_DHE_DSS_WITH_AES_256_CBC_SHA256 for TLSv1.1
+%% No cached client session
+*** ClientHello, TLSv1.2
+RandomCookie:  GMT: 1444756757 bytes = { 71, 232, 179, 3, 42, 217, 31, 81, 94, 188, 202, 229, 12, 228, 142, 158, 134, 47, 145, 249, 77, 227, 19, 6, 132, 28, 151, 232 }
+Session ID:  {}
+Cipher Suites: [TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_RSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA, TLS_ECDHE_ECDSA_WITH_RC4_128_SHA, TLS_ECDHE_RSA_WITH_RC4_128_SHA, SSL_RSA_WITH_RC4_128_SHA, TLS_ECDH_ECDSA_WITH_RC4_128_SHA, TLS_ECDH_RSA_WITH_RC4_128_SHA, SSL_RSA_WITH_RC4_128_MD5, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+Compression Methods:  { 0 }
+Extension elliptic_curves, curve names: {secp256r1, sect163k1, sect163r2, secp192r1, secp224r1, sect233k1, sect233r1, sect283k1, sect283r1, secp384r1, sect409k1, sect409r1, secp521r1, sect571k1, sect571r1, secp160k1, secp160r1, secp160r2, sect163r1, secp192k1, sect193r1, sect193r2, secp224k1, sect239k1, secp256k1}
+Extension ec_point_formats, formats: [uncompressed]
+Extension signature_algorithms, signature_algorithms: SHA512withECDSA, SHA512withRSA, SHA384withECDSA, SHA384withRSA, SHA256withECDSA, SHA256withRSA, SHA224withECDSA, SHA224withRSA, SHA1withECDSA, SHA1withRSA, SHA1withDSA, MD5withRSA
+***
+[write] MD5 and SHA1 hashes:  len = 249
+0000: 01 00 00 F5 03 03 56 1D   3D 15 47 E8 B3 03 2A D9  ......V.=.G...*.
+0010: 1F 51 5E BC CA E5 0C E4   8E 9E 86 2F 91 F9 4D E3  .Q^......../..M.
+0020: 13 06 84 1C 97 E8 00 00   70 C0 24 C0 28 00 3D C0  ........p.$.(.=.
+0030: 26 C0 2A 00 6B 00 6A C0   0A C0 14 00 35 C0 05 C0  &.*.k.j.....5...
+0040: 0F 00 39 00 38 C0 23 C0   27 00 3C C0 25 C0 29 00  ..9.8.#.'.<.%.).
+0050: 67 00 40 C0 09 C0 13 00   2F C0 04 C0 0E 00 33 00  g.@...../.....3.
+0060: 32 C0 2C C0 2B C0 30 00   9D C0 2E C0 32 00 9F 00  2.,.+.0.....2...
+0070: A3 C0 2F 00 9C C0 2D C0   31 00 9E 00 A2 C0 08 C0  ../...-.1.......
+0080: 12 00 0A C0 03 C0 0D 00   16 00 13 C0 07 C0 11 00  ................
+0090: 05 C0 02 C0 0C 00 04 00   FF 01 00 00 5C 00 0A 00  ............\...
+00A0: 34 00 32 00 17 00 01 00   03 00 13 00 15 00 06 00  4.2.............
+00B0: 07 00 09 00 0A 00 18 00   0B 00 0C 00 19 00 0D 00  ................
+00C0: 0E 00 0F 00 10 00 11 00   02 00 12 00 04 00 05 00  ................
+00D0: 14 00 08 00 16 00 0B 00   02 01 00 00 0D 00 1A 00  ................
+00E0: 18 06 03 06 01 05 03 05   01 04 03 04 01 03 03 03  ................
+00F0: 01 02 03 02 01 02 02 01   01                       .........
+Image Fetcher 0, WRITE: TLSv1.2 Handshake, length = 249
+Image Fetcher 0, READ: TLSv1.2 Handshake, length = 89
+*** ServerHello, TLSv1.2
+RandomCookie:  GMT: -188410508 bytes = { 215, 136, 176, 172, 209, 230, 243, 228, 62, 170, 63, 197, 116, 131, 1, 40, 201, 29, 82, 56, 125, 238, 1, 186, 239, 46, 72, 148 }
+Session ID:  {194, 48, 117, 131, 27, 19, 208, 245, 64, 252, 17, 164, 217, 71, 124, 247, 47, 127, 26, 105, 135, 213, 179, 140, 133, 131, 234, 245, 191, 87, 179, 140}
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+Compression Method: 0
+Extension renegotiation_info, renegotiated_connection: <empty>
+Extension ec_point_formats, formats: [uncompressed, ansiX962_compressed_prime, ansiX962_compressed_char2]
+***
+%% Initialized:  [Session-1, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384]
+** TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+[read] MD5 and SHA1 hashes:  len = 89
+0000: 02 00 00 55 03 03 F5 C5   15 74 D7 88 B0 AC D1 E6  ...U.....t......
+0010: F3 E4 3E AA 3F C5 74 83   01 28 C9 1D 52 38 7D EE  ..>.?.t..(..R8..
+0020: 01 BA EF 2E 48 94 20 C2   30 75 83 1B 13 D0 F5 40  ....H. .0u.....@
+0030: FC 11 A4 D9 47 7C F7 2F   7F 1A 69 87 D5 B3 8C 85  ....G../..i.....
+0040: 83 EA F5 BF 57 B3 8C C0   30 00 00 0D FF 01 00 01  ....W...0.......
+0050: 00 00 0B 00 04 03 00 01   02                       .........
+Image Fetcher 0, READ: TLSv1.2 Handshake, length = 2416
+*** Certificate chain
+chain [0] = [
+[
+  Version: V3
+  Subject: CN=josm.openstreetmap.de, OU=Domain Control Validated
+  Signature Algorithm: SHA256withRSA, OID = 1.2.840.113549.1.1.11
+
+  Key:  Sun RSA public key, 2048 bits
+  modulus: 25089484116082721916989191641659357022423736683845608080603149827936106813397910960203563947321568286601028380534782151168122073384515529781408599633075632307991683322569927185880888684498397706600807211189981866001553333256032342715361365518230123757370267863886461169754216588362809061578905134113332483484906642298046961424684981828423808329226966312516146722009511559567273611042198621602351952630247867979419107544260318638127980284097097482279740705998766076578607544007490587604489707994140351325595545583849133265495897792158449807878601559170075520008186488159455181657014952313567292907768219697522355975327
+  public exponent: 65537
+  Validity: [From: Tue Dec 30 01:33:57 NOVT 2014,
+               To: Thu Dec 31 01:33:57 NOVT 2015]
+  Issuer: CN=GlobalSign Domain Validation CA - SHA256 - G2, O=GlobalSign nv-sa, C=BE
+  SerialNumber: [    1121917f 0037779b be6047f8 a1f4b142 b23a]
+
+Certificate Extensions: 9
+[1]: ObjectId: 1.3.6.1.5.5.7.1.1 Criticality=false
+AuthorityInfoAccess [
+  [
+   accessMethod: caIssuers
+   accessLocation: URIName: http://secure.globalsign.com/cacert/gsdomainvalsha2g2r1.crt
+, 
+   accessMethod: ocsp
+   accessLocation: URIName: http://ocsp2.globalsign.com/gsdomainvalsha2g2
+]
+]
+
+[2]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: EA 4E 7C D4 80 2D E5 15   81 86 26 8C 82 6D C0 98  .N...-....&..m..
+0010: A4 CF 97 0F                                        ....
+]
+]
+
+[3]: ObjectId: 2.5.29.19 Criticality=false
+BasicConstraints:[
+  CA:false
+  PathLen: undefined
+]
+
+[4]: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: http://crl.globalsign.com/gs/gsdomainvalsha2g2.crl]
+]]
+
+[5]: ObjectId: 2.5.29.32 Criticality=false
+CertificatePolicies [
+  [CertificatePolicyId: [2.23.140.1.2.1]
+[PolicyQualifierInfo: [
+  qualifierID: 1.3.6.1.5.5.7.2.1
+  qualifier: 0000: 16 26 68 74 74 70 73 3A   2F 2F 77 77 77 2E 67 6C  .&https://www.gl
+0010: 6F 62 61 6C 73 69 67 6E   2E 63 6F 6D 2F 72 65 70  obalsign.com/rep
+0020: 6F 73 69 74 6F 72 79 2F                            ository/
+
+]]  ]
+]
+
+[6]: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  serverAuth
+  clientAuth
+]
+
+[7]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+  Key_Encipherment
+]
+
+[8]: ObjectId: 2.5.29.17 Criticality=false
+SubjectAlternativeName [
+  DNSName: josm.openstreetmap.de
+]
+
+[9]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: C0 1F AE 9E 56 F6 5B AE   85 BD 00 E2 54 D8 67 AE  ....V.[.....T.g.
+0010: 0A E1 94 FF                                        ....
+]
+]
+
+]
+  Algorithm: [SHA256withRSA]
+  Signature:
+0000: 41 64 A6 CB 00 F3 2A 42   6A 79 45 C1 4F 03 44 6B  Ad....*BjyE.O.Dk
+0010: B6 5E 46 C1 11 69 5E 39   F0 2B 59 FF 77 C3 82 C2  .^F..i^9.+Y.w...
+0020: EE 8C A3 A1 E2 0F 18 EE   2D AD 65 4C 7C D0 39 0A  ........-.eL..9.
+0030: 02 BF 23 C8 C6 B2 28 CD   4F 90 5A 49 34 ED 9F 85  ..#...(.O.ZI4...
+0040: D5 F4 C5 C0 35 4C 6F 79   FA C7 B3 7E EA 2F CD 06  ....5Loy...../..
+0050: 3C D2 37 CF 90 A4 66 79   3B 5B E0 B4 00 F4 50 E8  <.7...fy;[....P.
+0060: 5F C6 7E 02 54 73 95 71   AC 95 EB 51 C6 88 F7 65  _...Ts.q...Q...e
+0070: 62 5A E4 3A 46 E3 E5 1A   04 B6 D5 74 FC DE 32 8F  bZ.:F......t..2.
+0080: 94 87 52 EA A1 5A C8 93   9A 91 78 99 93 BA A9 4E  ..R..Z....x....N
+0090: F9 C2 39 D1 1E AB 07 56   6B 78 D3 AE 2D A6 65 4F  ..9....Vkx..-.eO
+00A0: 42 7E E2 5A AE C0 A8 1E   D2 EC AD D9 DA 58 4D 11  B..Z.........XM.
+00B0: 88 E5 30 C8 07 10 45 A5   6D FA B3 7F 6F 40 49 42  ..0...E.m...o@IB
+00C0: EA 0F D7 AD 3D F7 47 6C   C3 E1 E8 43 54 59 25 BE  ....=.Gl...CTY%.
+00D0: 14 B5 18 EA 9B 26 65 D8   95 3E D8 3D B0 B3 CC 4E  .....&e..>.=...N
+00E0: 33 77 CC 53 94 41 DB F2   D5 95 CD 01 95 18 4C C3  3w.S.A........L.
+00F0: D6 1F C1 65 7D B6 3A DE   96 0F DC 34 3D 5E 27 6D  ...e..:....4=^'m
+
+]
+chain [1] = [
+[
+  Version: V3
+  Subject: CN=GlobalSign Domain Validation CA - SHA256 - G2, O=GlobalSign nv-sa, C=BE
+  Signature Algorithm: SHA256withRSA, OID = 1.2.840.113549.1.1.11
+
+  Key:  Sun RSA public key, 2048 bits
+  modulus: 21443645765309587645084180579690114196949238886958022282342018280249378590678107777000081989815220422901961215089613247723084941811889964422441775831104940347344774635029292992680647120872320194271353363542869904863050943546131007374301036942212877282196354941545042890080745154294522221662108659068781813709579864518227996198071614230941968652765178137545855861287050728777940404297844220199947901043964575253365198842717716167044520545689824885741281400225906573801619242256043982760508279614941137313568521804949003703663309726221155602307252979979028316473941225216209581424282374652938529053410390410647964768243
+  public exponent: 65537
+  Validity: [From: Thu Feb 20 17:00:00 NOVT 2014,
+               To: Tue Feb 20 16:00:00 NOVT 2024]
+  Issuer: CN=GlobalSign Root CA, OU=Root CA, O=GlobalSign nv-sa, C=BE
+  SerialNumber: [    04000000 0001444e f03e20]
+
+Certificate Extensions: 7
+[1]: ObjectId: 1.3.6.1.5.5.7.1.1 Criticality=false
+AuthorityInfoAccess [
+  [
+   accessMethod: ocsp
+   accessLocation: URIName: http://ocsp.globalsign.com/rootr1
+]
+]
+
+[2]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 60 7B 66 1A 45 0D 97 CA   89 50 2F 7D 04 CD 34 A8  `.f.E....P/...4.
+0010: FF FC FD 4B                                        ...K
+]
+]
+
+[3]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:true
+  PathLen:0
+]
+
+[4]: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: http://crl.globalsign.net/root.crl]
+]]
+
+[5]: ObjectId: 2.5.29.32 Criticality=false
+CertificatePolicies [
+  [CertificatePolicyId: [2.5.29.32.0]
+[PolicyQualifierInfo: [
+  qualifierID: 1.3.6.1.5.5.7.2.1
+  qualifier: 0000: 16 26 68 74 74 70 73 3A   2F 2F 77 77 77 2E 67 6C  .&https://www.gl
+0010: 6F 62 61 6C 73 69 67 6E   2E 63 6F 6D 2F 72 65 70  obalsign.com/rep
+0020: 6F 73 69 74 6F 72 79 2F                            ository/
+
+]]  ]
+]
+
+[6]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  Key_CertSign
+  Crl_Sign
+]
+
+[7]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: EA 4E 7C D4 80 2D E5 15   81 86 26 8C 82 6D C0 98  .N...-....&..m..
+0010: A4 CF 97 0F                                        ....
+]
+]
+
+]
+  Algorithm: [SHA256withRSA]
+  Signature:
+0000: D7 45 9E A0 DC E0 E3 61   5A 0B 7D 77 84 17 2D 65  .E.....aZ..w..-e
+0010: 5A 82 9A 8D A3 27 2A 85   F7 C9 EF E9 86 FD D4 47  Z....'*........G
+0020: CD 01 52 96 C5 43 BD 37   B1 E1 B8 F2 A9 D2 8A 11  ..R..C.7........
+0030: 84 71 91 15 89 DC 02 9D   0B CB 6C 33 85 34 28 9E  .q........l3.4(.
+0040: 20 B2 B1 97 DC 6D 0B 10   C1 3C CD 5F EA 5D D7 98   ....m...<._.]..
+0050: 31 C5 34 99 5C 00 61 55   C4 1B 02 5B C5 E3 89 C8  1.4.\.aU...[....
+0060: B4 B8 6F 1E 38 F2 56 26   E9 41 EF 3D CD AC 99 4F  ..o.8.V&.A.=...O
+0070: 59 4A 57 2D 4B 7D AE C7   88 FB D6 98 3B F5 E5 F0  YJW-K.......;...
+0080: E8 89 89 B9 8B 03 CB 5A   23 1F A4 FD B8 EA FB 2E  .......Z#.......
+0090: 9D AE 6A 73 09 BC FC D5   A0 B5 44 82 AB 44 91 2E  ..js......D..D..
+00A0: 50 2E 57 C1 43 D8 91 04   8B E9 11 2E 5F B4 3F 79  P.W.C......._.?y
+00B0: DF 1E FB 3F 30 00 8B 53   E3 B7 2C 1D 3B 4D 8B DC  ...?0..S..,.;M..
+00C0: E4 64 1D 04 58 33 AF 1B   55 E7 AB 0C BF 30 04 74  .d..X3..U....0.t
+00D0: E4 F3 0E 2F 30 39 8D 4B   04 8C 1E 75 66 66 49 E0  .../09.K...uffI.
+00E0: BE 40 34 C7 5C 5A 51 92   BA 12 3C 52 D5 04 82 55  .@4.\ZQ...<R...U
+00F0: 2D 67 A5 DF B7 95 7C EE   3F C3 08 BA 04 BE C0 46  -g......?......F
+
+]
+***
+Found trusted certificate:
+[
+[
+  Version: V3
+  Subject: CN=GlobalSign Root CA, OU=Root CA, O=GlobalSign nv-sa, C=BE
+  Signature Algorithm: SHA1withRSA, OID = 1.2.840.113549.1.1.5
+
+  Key:  Sun RSA public key, 2048 bits
+  modulus: 27527298331346624659307815003393871405544020859223571253338520804765223430982458246098772321151941672961640627675186276205051526242643378100158885513217742058056466168392650055013100104849176312294167242041140310435772026717601763184706480259485212806902223894888566729634266984619221168862421838192203495151893762216777748330129909588210203299778581898175320882908371930984451809054509645379277309791084909705758372477320893336152882629891014286744815684371510751674825920204180490258122986862539585201934155220945732937830308834387108046657005363452071776396707181283143463213972159925612976006433949563180335468751
+  public exponent: 65537
+  Validity: [From: Tue Sep 01 19:00:00 NOVST 1998,
+               To: Fri Jan 28 18:00:00 NOVT 2028]
+  Issuer: CN=GlobalSign Root CA, OU=Root CA, O=GlobalSign nv-sa, C=BE
+  SerialNumber: [    04000000 0001154b 5ac394]
+
+Certificate Extensions: 3
+[1]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:true
+  PathLen:2147483647
+]
+
+[2]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  Key_CertSign
+  Crl_Sign
+]
+
+[3]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 60 7B 66 1A 45 0D 97 CA   89 50 2F 7D 04 CD 34 A8  `.f.E....P/...4.
+0010: FF FC FD 4B                                        ...K
+]
+]
+
+]
+  Algorithm: [SHA1withRSA]
+  Signature:
+0000: D6 73 E7 7C 4F 76 D0 8D   BF EC BA A2 BE 34 C5 28  .s..Ov.......4.(
+0010: 32 B5 7C FC 6C 9C 2C 2B   BD 09 9E 53 BF 6B 5E AA  2...l.,+...S.k^.
+0020: 11 48 B6 E5 08 A3 B3 CA   3D 61 4D D3 46 09 B3 3E  .H......=aM.F..>
+0030: C3 A0 E3 63 55 1B F2 BA   EF AD 39 E1 43 B9 38 A3  ...cU.....9.C.8.
+0040: E6 2F 8A 26 3B EF A0 50   56 F9 C6 0A FD 38 CD C4  ./.&;..PV....8..
+0050: 0B 70 51 94 97 98 04 DF   C3 5F 94 D5 15 C9 14 41  .pQ......_.....A
+0060: 9C C4 5D 75 64 15 0D FF   55 30 EC 86 8F FF 0D EF  ..]ud...U0......
+0070: 2C B9 63 46 F6 AA FC DF   BC 69 FD 2E 12 48 64 9A  ,.cF.....i...Hd.
+0080: E0 95 F0 A6 EF 29 8F 01   B1 15 B5 0C 1D A5 FE 69  .....).........i
+0090: 2C 69 24 78 1E B3 A7 1C   71 62 EE CA C8 97 AC 17  ,i$x....qb......
+00A0: 5D 8A C2 F8 47 86 6E 2A   C4 56 31 95 D0 67 89 85  ]...G.n*.V1..g..
+00B0: 2B F9 6C A6 5D 46 9D 0C   AA 82 E4 99 51 DD 70 B7  +.l.]F......Q.p.
+00C0: DB 56 3D 61 E4 6A E1 5C   D6 F6 FE 3D DE 41 CC 07  .V=a.j.\...=.A..
+00D0: AE 63 52 BF 53 53 F4 2B   E9 C7 FD B6 F7 82 5F 85  .cR.SS.+......_.
+00E0: D2 41 18 DB 81 B3 04 1C   C5 1F A4 80 6F 15 20 C9  .A..........o. .
+00F0: DE 0C 88 0A 1D D6 66 55   E2 FC 48 C9 29 26 69 E0  ......fU..H.)&i.
+
+]
+[read] MD5 and SHA1 hashes:  len = 2416
+0000: 0B 00 09 6C 00 09 69 00   04 FC 30 82 04 F8 30 82  ...l..i...0...0.
+0010: 03 E0 A0 03 02 01 02 02   12 11 21 91 7F 00 37 77  ..........!...7w
+0020: 9B BE 60 47 F8 A1 F4 B1   42 B2 3A 30 0D 06 09 2A  ..`G....B.:0...*
+0030: 86 48 86 F7 0D 01 01 0B   05 00 30 60 31 0B 30 09  .H........0`1.0.
+0040: 06 03 55 04 06 13 02 42   45 31 19 30 17 06 03 55  ..U....BE1.0...U
+0050: 04 0A 13 10 47 6C 6F 62   61 6C 53 69 67 6E 20 6E  ....GlobalSign n
+0060: 76 2D 73 61 31 36 30 34   06 03 55 04 03 13 2D 47  v-sa1604..U...-G
+0070: 6C 6F 62 61 6C 53 69 67   6E 20 44 6F 6D 61 69 6E  lobalSign Domain
+0080: 20 56 61 6C 69 64 61 74   69 6F 6E 20 43 41 20 2D   Validation CA -
+0090: 20 53 48 41 32 35 36 20   2D 20 47 32 30 1E 17 0D   SHA256 - G20...
+00A0: 31 34 31 32 32 39 31 39   33 33 35 37 5A 17 0D 31  141229193357Z..1
+00B0: 35 31 32 33 30 31 39 33   33 35 37 5A 30 43 31 21  51230193357Z0C1!
+00C0: 30 1F 06 03 55 04 0B 13   18 44 6F 6D 61 69 6E 20  0...U....Domain 
+00D0: 43 6F 6E 74 72 6F 6C 20   56 61 6C 69 64 61 74 65  Control Validate
+00E0: 64 31 1E 30 1C 06 03 55   04 03 13 15 6A 6F 73 6D  d1.0...U....josm
+00F0: 2E 6F 70 65 6E 73 74 72   65 65 74 6D 61 70 2E 64  .openstreetmap.d
+0100: 65 30 82 01 22 30 0D 06   09 2A 86 48 86 F7 0D 01  e0.."0...*.H....
+0110: 01 01 05 00 03 82 01 0F   00 30 82 01 0A 02 82 01  .........0......
+0120: 01 00 C6 BF 3B 3F 01 83   3A A9 B8 17 60 8D 81 C4  ....;?..:...`...
+0130: 2B 83 FE 7F B5 75 F7 12   55 AA 42 29 83 4A B1 B6  +....u..U.B).J..
+0140: 6C D3 5C FA 67 D1 97 7E   EE 9C 7A 2B 4D 7A 3B 1C  l.\.g.....z+Mz;.
+0150: 29 C2 63 6E 1C 23 12 EC   72 53 00 68 26 41 C6 50  ).cn.#..rS.h&A.P
+0160: CF 2E 38 2B BE 22 30 9B   A6 29 5C CE EE 13 32 80  ..8+."0..)\...2.
+0170: A0 90 FE 0F 98 C5 EE 6A   B9 C6 AD FD 49 EF F6 09  .......j....I...
+0180: D7 59 63 7B 08 44 FC C5   32 E7 1D 68 3A 6E D2 65  .Yc..D..2..h:n.e
+0190: B2 E6 A4 9E 27 09 76 24   B4 F5 A9 B9 50 67 BD C9  ....'.v$....Pg..
+01A0: 31 7D C2 E3 EC 8F DD 75   62 15 19 F5 98 71 08 36  1......ub....q.6
+01B0: ED 96 81 80 C5 E4 87 41   23 22 1D 91 94 82 7A 5C  .......A#"....z\
+01C0: 84 5D 03 B9 CE FF B7 61   54 4B DD B5 CD 23 00 D8  .].....aTK...#..
+01D0: 96 88 35 D5 AF 3F FF 6D   62 52 FF 96 90 BA DF 57  ..5..?.mbR.....W
+01E0: 01 20 C7 B3 0A 18 0E 00   70 8A 7A 15 D8 A9 6E F7  . ......p.z...n.
+01F0: E9 70 C2 08 61 33 04 1D   60 BA 54 2D B2 04 60 D9  .p..a3..`.T-..`.
+0200: 95 E4 A0 D6 FB D5 D7 25   4A 90 17 F3 0D 0E C2 30  .......%J......0
+0210: B7 47 B1 53 15 9D CB AF   B3 21 BC 57 C8 A7 32 EF  .G.S.....!.W..2.
+0220: B4 9F 02 03 01 00 01 A3   82 01 C7 30 82 01 C3 30  ...........0...0
+0230: 0E 06 03 55 1D 0F 01 01   FF 04 04 03 02 05 A0 30  ...U...........0
+0240: 49 06 03 55 1D 20 04 42   30 40 30 3E 06 06 67 81  I..U. .B0@0>..g.
+0250: 0C 01 02 01 30 34 30 32   06 08 2B 06 01 05 05 07  ....0402..+.....
+0260: 02 01 16 26 68 74 74 70   73 3A 2F 2F 77 77 77 2E  ...&https://www.
+0270: 67 6C 6F 62 61 6C 73 69   67 6E 2E 63 6F 6D 2F 72  globalsign.com/r
+0280: 65 70 6F 73 69 74 6F 72   79 2F 30 20 06 03 55 1D  epository/0 ..U.
+0290: 11 04 19 30 17 82 15 6A   6F 73 6D 2E 6F 70 65 6E  ...0...josm.open
+02A0: 73 74 72 65 65 74 6D 61   70 2E 64 65 30 09 06 03  streetmap.de0...
+02B0: 55 1D 13 04 02 30 00 30   1D 06 03 55 1D 25 04 16  U....0.0...U.%..
+02C0: 30 14 06 08 2B 06 01 05   05 07 03 01 06 08 2B 06  0...+.........+.
+02D0: 01 05 05 07 03 02 30 43   06 03 55 1D 1F 04 3C 30  ......0C..U...<0
+02E0: 3A 30 38 A0 36 A0 34 86   32 68 74 74 70 3A 2F 2F  :08.6.4.2http://
+02F0: 63 72 6C 2E 67 6C 6F 62   61 6C 73 69 67 6E 2E 63  crl.globalsign.c
+0300: 6F 6D 2F 67 73 2F 67 73   64 6F 6D 61 69 6E 76 61  om/gs/gsdomainva
+0310: 6C 73 68 61 32 67 32 2E   63 72 6C 30 81 94 06 08  lsha2g2.crl0....
+0320: 2B 06 01 05 05 07 01 01   04 81 87 30 81 84 30 47  +..........0..0G
+0330: 06 08 2B 06 01 05 05 07   30 02 86 3B 68 74 74 70  ..+.....0..;http
+0340: 3A 2F 2F 73 65 63 75 72   65 2E 67 6C 6F 62 61 6C  ://secure.global
+0350: 73 69 67 6E 2E 63 6F 6D   2F 63 61 63 65 72 74 2F  sign.com/cacert/
+0360: 67 73 64 6F 6D 61 69 6E   76 61 6C 73 68 61 32 67  gsdomainvalsha2g
+0370: 32 72 31 2E 63 72 74 30   39 06 08 2B 06 01 05 05  2r1.crt09..+....
+0380: 07 30 01 86 2D 68 74 74   70 3A 2F 2F 6F 63 73 70  .0..-http://ocsp
+0390: 32 2E 67 6C 6F 62 61 6C   73 69 67 6E 2E 63 6F 6D  2.globalsign.com
+03A0: 2F 67 73 64 6F 6D 61 69   6E 76 61 6C 73 68 61 32  /gsdomainvalsha2
+03B0: 67 32 30 1D 06 03 55 1D   0E 04 16 04 14 C0 1F AE  g20...U.........
+03C0: 9E 56 F6 5B AE 85 BD 00   E2 54 D8 67 AE 0A E1 94  .V.[.....T.g....
+03D0: FF 30 1F 06 03 55 1D 23   04 18 30 16 80 14 EA 4E  .0...U.#..0....N
+03E0: 7C D4 80 2D E5 15 81 86   26 8C 82 6D C0 98 A4 CF  ...-....&..m....
+03F0: 97 0F 30 0D 06 09 2A 86   48 86 F7 0D 01 01 0B 05  ..0...*.H.......
+0400: 00 03 82 01 01 00 41 64   A6 CB 00 F3 2A 42 6A 79  ......Ad....*Bjy
+0410: 45 C1 4F 03 44 6B B6 5E   46 C1 11 69 5E 39 F0 2B  E.O.Dk.^F..i^9.+
+0420: 59 FF 77 C3 82 C2 EE 8C   A3 A1 E2 0F 18 EE 2D AD  Y.w...........-.
+0430: 65 4C 7C D0 39 0A 02 BF   23 C8 C6 B2 28 CD 4F 90  eL..9...#...(.O.
+0440: 5A 49 34 ED 9F 85 D5 F4   C5 C0 35 4C 6F 79 FA C7  ZI4.......5Loy..
+0450: B3 7E EA 2F CD 06 3C D2   37 CF 90 A4 66 79 3B 5B  .../..<.7...fy;[
+0460: E0 B4 00 F4 50 E8 5F C6   7E 02 54 73 95 71 AC 95  ....P._...Ts.q..
+0470: EB 51 C6 88 F7 65 62 5A   E4 3A 46 E3 E5 1A 04 B6  .Q...ebZ.:F.....
+0480: D5 74 FC DE 32 8F 94 87   52 EA A1 5A C8 93 9A 91  .t..2...R..Z....
+0490: 78 99 93 BA A9 4E F9 C2   39 D1 1E AB 07 56 6B 78  x....N..9....Vkx
+04A0: D3 AE 2D A6 65 4F 42 7E   E2 5A AE C0 A8 1E D2 EC  ..-.eOB..Z......
+04B0: AD D9 DA 58 4D 11 88 E5   30 C8 07 10 45 A5 6D FA  ...XM...0...E.m.
+04C0: B3 7F 6F 40 49 42 EA 0F   D7 AD 3D F7 47 6C C3 E1  ..o@IB....=.Gl..
+04D0: E8 43 54 59 25 BE 14 B5   18 EA 9B 26 65 D8 95 3E  .CTY%......&e..>
+04E0: D8 3D B0 B3 CC 4E 33 77   CC 53 94 41 DB F2 D5 95  .=...N3w.S.A....
+04F0: CD 01 95 18 4C C3 D6 1F   C1 65 7D B6 3A DE 96 0F  ....L....e..:...
+0500: DC 34 3D 5E 27 6D 00 04   67 30 82 04 63 30 82 03  .4=^'m..g0..c0..
+0510: 4B A0 03 02 01 02 02 0B   04 00 00 00 00 01 44 4E  K.............DN
+0520: F0 3E 20 30 0D 06 09 2A   86 48 86 F7 0D 01 01 0B  .> 0...*.H......
+0530: 05 00 30 57 31 0B 30 09   06 03 55 04 06 13 02 42  ..0W1.0...U....B
+0540: 45 31 19 30 17 06 03 55   04 0A 13 10 47 6C 6F 62  E1.0...U....Glob
+0550: 61 6C 53 69 67 6E 20 6E   76 2D 73 61 31 10 30 0E  alSign nv-sa1.0.
+0560: 06 03 55 04 0B 13 07 52   6F 6F 74 20 43 41 31 1B  ..U....Root CA1.
+0570: 30 19 06 03 55 04 03 13   12 47 6C 6F 62 61 6C 53  0...U....GlobalS
+0580: 69 67 6E 20 52 6F 6F 74   20 43 41 30 1E 17 0D 31  ign Root CA0...1
+0590: 34 30 32 32 30 31 30 30   30 30 30 5A 17 0D 32 34  40220100000Z..24
+05A0: 30 32 32 30 31 30 30 30   30 30 5A 30 60 31 0B 30  0220100000Z0`1.0
+05B0: 09 06 03 55 04 06 13 02   42 45 31 19 30 17 06 03  ...U....BE1.0...
+05C0: 55 04 0A 13 10 47 6C 6F   62 61 6C 53 69 67 6E 20  U....GlobalSign 
+05D0: 6E 76 2D 73 61 31 36 30   34 06 03 55 04 03 13 2D  nv-sa1604..U...-
+05E0: 47 6C 6F 62 61 6C 53 69   67 6E 20 44 6F 6D 61 69  GlobalSign Domai
+05F0: 6E 20 56 61 6C 69 64 61   74 69 6F 6E 20 43 41 20  n Validation CA 
+0600: 2D 20 53 48 41 32 35 36   20 2D 20 47 32 30 82 01  - SHA256 - G20..
+0610: 22 30 0D 06 09 2A 86 48   86 F7 0D 01 01 01 05 00  "0...*.H........
+0620: 03 82 01 0F 00 30 82 01   0A 02 82 01 01 00 A9 DD  .....0..........
+0630: CC 0E B3 E2 32 39 DD 49   22 A8 13 69 93 87 88 E1  ....29.I"..i....
+0640: 0C EE 71 7D BD 90 87 96   5D 59 F2 CC B3 D2 58 57  ..q.....]Y....XW
+0650: 57 F9 46 EF 6C 26 D8 36   42 8E 7E 30 B3 2F 9A 3E  W.F.l&.6B..0./.>
+0660: 53 7B 1F 6E B6 A2 4C 45   1F 3C D3 15 93 1C 89 ED  S..n..LE.<......
+0670: 3C F4 57 DE CA BD EC 06   9A 6A 2A A0 19 52 7F 51  <.W......j*..R.Q
+0680: D1 74 39 08 9F AB EB D7   86 13 15 97 AE 36 C3 54  .t9..........6.T
+0690: 66 0E 5A F2 A0 73 85 31   E3 B2 64 14 6A FF A5 A2  f.Z..s.1..d.j...
+06A0: 8E 24 BB BD 85 52 15 A2   79 EE F0 B5 EE 3D B8 F4  .$...R..y....=..
+06B0: 7D 80 BC D9 90 35 65 B8   17 A9 AD B3 98 9F A0 7E  .....5e.........
+06C0: 7D 6E FB 3F AD 7C C2 1B   59 36 96 DA 37 32 4B 4B  .n.?....Y6..72KK
+06D0: 5D 35 02 63 8E DB A7 CF   62 EE CC 2E D4 8D C9 BD  ]5.c....b.......
+06E0: 3C 6A 91 72 A2 22 A7 72   2D 20 D1 FA CA 37 DA 18  <j.r.".r- ...7..
+06F0: 98 E6 16 24 71 25 4B C4   E5 7B 89 52 09 02 FD 59  ...$q%K....R...Y
+0700: 2B 04 6E CA 07 81 D4 B3   DA DA DB E3 CC 80 A8 56  +.n............V
+0710: 07 06 7C 96 08 37 9D DB   38 B6 62 34 91 62 07 74  .....7..8.b4.b.t
+0720: 01 38 D8 72 30 E2 EB 90   71 26 62 C0 57 F3 02 03  .8.r0...q&b.W...
+0730: 01 00 01 A3 82 01 25 30   82 01 21 30 0E 06 03 55  ......%0..!0...U
+0740: 1D 0F 01 01 FF 04 04 03   02 01 06 30 12 06 03 55  ...........0...U
+0750: 1D 13 01 01 FF 04 08 30   06 01 01 FF 02 01 00 30  .......0.......0
+0760: 1D 06 03 55 1D 0E 04 16   04 14 EA 4E 7C D4 80 2D  ...U.......N...-
+0770: E5 15 81 86 26 8C 82 6D   C0 98 A4 CF 97 0F 30 47  ....&..m......0G
+0780: 06 03 55 1D 20 04 40 30   3E 30 3C 06 04 55 1D 20  ..U. .@0>0<..U. 
+0790: 00 30 34 30 32 06 08 2B   06 01 05 05 07 02 01 16  .0402..+........
+07A0: 26 68 74 74 70 73 3A 2F   2F 77 77 77 2E 67 6C 6F  &https://www.glo
+07B0: 62 61 6C 73 69 67 6E 2E   63 6F 6D 2F 72 65 70 6F  balsign.com/repo
+07C0: 73 69 74 6F 72 79 2F 30   33 06 03 55 1D 1F 04 2C  sitory/03..U...,
+07D0: 30 2A 30 28 A0 26 A0 24   86 22 68 74 74 70 3A 2F  0*0(.&.$."http:/
+07E0: 2F 63 72 6C 2E 67 6C 6F   62 61 6C 73 69 67 6E 2E  /crl.globalsign.
+07F0: 6E 65 74 2F 72 6F 6F 74   2E 63 72 6C 30 3D 06 08  net/root.crl0=..
+0800: 2B 06 01 05 05 07 01 01   04 31 30 2F 30 2D 06 08  +........10/0-..
+0810: 2B 06 01 05 05 07 30 01   86 21 68 74 74 70 3A 2F  +.....0..!http:/
+0820: 2F 6F 63 73 70 2E 67 6C   6F 62 61 6C 73 69 67 6E  /ocsp.globalsign
+0830: 2E 63 6F 6D 2F 72 6F 6F   74 72 31 30 1F 06 03 55  .com/rootr10...U
+0840: 1D 23 04 18 30 16 80 14   60 7B 66 1A 45 0D 97 CA  .#..0...`.f.E...
+0850: 89 50 2F 7D 04 CD 34 A8   FF FC FD 4B 30 0D 06 09  .P/...4....K0...
+0860: 2A 86 48 86 F7 0D 01 01   0B 05 00 03 82 01 01 00  *.H.............
+0870: D7 45 9E A0 DC E0 E3 61   5A 0B 7D 77 84 17 2D 65  .E.....aZ..w..-e
+0880: 5A 82 9A 8D A3 27 2A 85   F7 C9 EF E9 86 FD D4 47  Z....'*........G
+0890: CD 01 52 96 C5 43 BD 37   B1 E1 B8 F2 A9 D2 8A 11  ..R..C.7........
+08A0: 84 71 91 15 89 DC 02 9D   0B CB 6C 33 85 34 28 9E  .q........l3.4(.
+08B0: 20 B2 B1 97 DC 6D 0B 10   C1 3C CD 5F EA 5D D7 98   ....m...<._.]..
+08C0: 31 C5 34 99 5C 00 61 55   C4 1B 02 5B C5 E3 89 C8  1.4.\.aU...[....
+08D0: B4 B8 6F 1E 38 F2 56 26   E9 41 EF 3D CD AC 99 4F  ..o.8.V&.A.=...O
+08E0: 59 4A 57 2D 4B 7D AE C7   88 FB D6 98 3B F5 E5 F0  YJW-K.......;...
+08F0: E8 89 89 B9 8B 03 CB 5A   23 1F A4 FD B8 EA FB 2E  .......Z#.......
+0900: 9D AE 6A 73 09 BC FC D5   A0 B5 44 82 AB 44 91 2E  ..js......D..D..
+0910: 50 2E 57 C1 43 D8 91 04   8B E9 11 2E 5F B4 3F 79  P.W.C......._.?y
+0920: DF 1E FB 3F 30 00 8B 53   E3 B7 2C 1D 3B 4D 8B DC  ...?0..S..,.;M..
+0930: E4 64 1D 04 58 33 AF 1B   55 E7 AB 0C BF 30 04 74  .d..X3..U....0.t
+0940: E4 F3 0E 2F 30 39 8D 4B   04 8C 1E 75 66 66 49 E0  .../09.K...uffI.
+0950: BE 40 34 C7 5C 5A 51 92   BA 12 3C 52 D5 04 82 55  .@4.\ZQ...<R...U
+0960: 2D 67 A5 DF B7 95 7C EE   3F C3 08 BA 04 BE C0 46  -g......?......F
+Image Fetcher 0, READ: TLSv1.2 Handshake, length = 333
+*** ECDH ServerKeyExchange
+Signature Algorithm SHA512withRSA
+Server key: Sun EC public key, 256 bits
+  public x coord: 28713776916454954660295797449913317886076030087117219837234736826397506494932
+  public y coord: 105738728202019712781966884270738698110242390059166769763838396183065991778526
+  parameters: secp256r1 [NIST P-256, X9.62 prime256v1] (1.2.840.10045.3.1.7)
+[read] MD5 and SHA1 hashes:  len = 333
+0000: 0C 00 01 49 03 00 17 41   04 3F 7B 6B FB 7A D4 F8  ...I...A.?.k.z..
+0010: A3 FC BE 0E ED 39 6A 5C   58 5A 34 11 1A 5D 9E 5A  .....9j\XZ4..].Z
+0020: 1E 55 20 E0 82 CA 09 61   D4 E9 C5 FF D2 20 C2 A8  .U ....a..... ..
+0030: 61 99 59 11 E5 0E A9 AA   5B EB 43 3D D9 04 14 1A  a.Y.....[.C=....
+0040: CF 70 39 36 E2 8B AF 10   DE 06 01 01 00 C6 41 7E  .p96..........A.
+0050: BA 2F 9D 0F AC 1E 45 A0   B0 88 32 F2 13 62 C6 A3  ./....E...2..b..
+0060: 89 7A E9 E5 2C 06 39 E5   2D 2D E9 36 8A 37 C0 8C  .z..,.9.--.6.7..
+0070: E9 F3 D3 D9 C8 86 C9 49   19 DE 61 89 09 CF E9 A8  .......I..a.....
+0080: B3 72 B8 A3 45 8C D7 53   57 85 72 AF E9 89 CA AC  .r..E..SW.r.....
+0090: CD ED AC 62 DA 9F E5 8B   D6 4A 4F 06 CC 69 9E 51  ...b.....JO..i.Q
+00A0: D0 7C C6 E3 90 4E A2 D1   5A F5 B3 46 F1 45 93 2F  .....N..Z..F.E./
+00B0: 18 74 08 CF 76 57 50 9E   72 48 E9 73 CF 53 EA 06  .t..vWP.rH.s.S..
+00C0: 25 09 35 77 CD 6F D7 DE   F7 03 75 9A F4 47 4C F6  %.5w.o....u..GL.
+00D0: 64 16 FF 1B 83 28 FA BA   90 43 C7 39 6D 9E C9 19  d....(...C.9m...
+00E0: A7 00 E0 FC 1B 5A 03 AA   94 A6 4D 7A C6 6E 2F 9F  .....Z....Mz.n/.
+00F0: 40 7E 0F 9B 89 8E C7 B9   A2 25 ED 8C FE C7 56 09  @........%....V.
+0100: D6 16 3F BB C3 01 14 CB   6F BB 62 BF F4 AB 32 82  ..?.....o.b...2.
+0110: F3 C3 72 5A 81 6D 50 87   1F 7C 85 01 B2 9E 3F 42  ..rZ.mP.......?B
+0120: 15 2A 98 EB 77 B5 E5 4B   77 62 8F 20 8A B9 07 EE  .*..w..Kwb. ....
+0130: AC 77 27 BE 3D EE 17 6D   5B D7 92 6C BF 9A 96 41  .w'.=..m[..l...A
+0140: 1D 33 1D 2B 67 84 B3 91   53 82 B6 16 EB           .3.+g...S....
+Image Fetcher 0, READ: TLSv1.2 Handshake, length = 4
+*** ServerHelloDone
+[read] MD5 and SHA1 hashes:  len = 4
+0000: 0E 00 00 00                                        ....
+*** ECDHClientKeyExchange
+ECDH Public value:  { 4, 9, 254, 161, 15, 203, 22, 249, 69, 255, 237, 36, 4, 46, 149, 57, 249, 178, 47, 178, 50, 49, 152, 54, 95, 189, 168, 171, 245, 195, 8, 175, 110, 211, 142, 82, 163, 219, 63, 40, 105, 245, 240, 27, 12, 84, 199, 230, 95, 106, 58, 89, 68, 121, 162, 91, 56, 221, 158, 134, 145, 56, 217, 47, 112 }
+[write] MD5 and SHA1 hashes:  len = 70
+0000: 10 00 00 42 41 04 09 FE   A1 0F CB 16 F9 45 FF ED  ...BA........E..
+0010: 24 04 2E 95 39 F9 B2 2F   B2 32 31 98 36 5F BD A8  $...9../.21.6_..
+0020: AB F5 C3 08 AF 6E D3 8E   52 A3 DB 3F 28 69 F5 F0  .....n..R..?(i..
+0030: 1B 0C 54 C7 E6 5F 6A 3A   59 44 79 A2 5B 38 DD 9E  ..T.._j:YDy.[8..
+0040: 86 91 38 D9 2F 70                                  ..8./p
+Image Fetcher 0, WRITE: TLSv1.2 Handshake, length = 70
+SESSION KEYGEN:
+PreMaster Secret:
+0000: 51 20 66 7B 58 A2 48 1E   96 30 35 F4 1D 93 A3 83  Q f.X.H..05.....
+0010: D0 EF 0B 2D 7C BA 32 96   A3 BC 09 9A 45 1B F1 03  ...-..2.....E...
+CONNECTION KEYGEN:
+Client Nonce:
+0000: 56 1D 3D 15 47 E8 B3 03   2A D9 1F 51 5E BC CA E5  V.=.G...*..Q^...
+0010: 0C E4 8E 9E 86 2F 91 F9   4D E3 13 06 84 1C 97 E8  ...../..M.......
+Server Nonce:
+0000: F5 C5 15 74 D7 88 B0 AC   D1 E6 F3 E4 3E AA 3F C5  ...t........>.?.
+0010: 74 83 01 28 C9 1D 52 38   7D EE 01 BA EF 2E 48 94  t..(..R8......H.
+Master Secret:
+0000: 6E 7A A9 99 72 07 2D 5F   BA 8B 11 73 41 B9 86 5C  nz..r.-_...sA..\
+0010: 74 0E 14 CD 33 78 B2 EA   29 D8 F9 53 94 7C 84 E2  t...3x..)..S....
+0020: F9 82 7C D5 90 28 CE 09   D0 DD 7E 1C 04 0C 5B 2F  .....(........[/
+... no MAC keys used for this cipher
+Client write key:
+0000: C2 40 4F 28 F7 E8 3D 89   FA 0C 4D 76 CA A0 C6 15  .@O(..=...Mv....
+0010: 39 ED 4C FF 3B 65 C4 06   9E 08 27 D7 1D AE ED 23  9.L.;e....'....#
+Server write key:
+0000: 32 75 1A C0 11 0D 59 EC   CA 6A 36 9E 7A C2 7A 36  2u....Y..j6.z.z6
+0010: A7 63 59 14 5C 1E 6B 3A   E3 9E 62 3D 08 97 F7 14  .cY.\.k:..b=....
+Client write IV:
+0000: 0C 50 B0 8D                                        .P..
+Server write IV:
+0000: 4D 57 0D 53                                        MW.S
+Image Fetcher 0, WRITE: TLSv1.2 Change Cipher Spec, length = 1
+*** Finished
+verify_data:  { 7, 71, 2, 222, 207, 170, 108, 58, 34, 185, 93, 137 }
+***
+[write] MD5 and SHA1 hashes:  len = 16
+0000: 14 00 00 0C 07 47 02 DE   CF AA 6C 3A 22 B9 5D 89  .....G....l:".].
+Image Fetcher 0, WRITE: TLSv1.2 Handshake, length = 40
+Image Fetcher 0, READ: TLSv1.2 Change Cipher Spec, length = 1
+Image Fetcher 0, READ: TLSv1.2 Handshake, length = 40
+*** Finished
+verify_data:  { 152, 115, 208, 14, 80, 63, 222, 213, 148, 145, 223, 209 }
+***
+%% Cached client session: [Session-1, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384]
+[read] MD5 and SHA1 hashes:  len = 16
+0000: 14 00 00 0C 98 73 D0 0E   50 3F DE D5 94 91 DF D1  .....s..P?......
+Image Fetcher 0, WRITE: TLSv1.2 Application Data, length = 264
+Image Fetcher 0, READ: TLSv1.2 Application Data, length = 594
+Image Fetcher 0, READ: TLSv1.2 Application Data, length = 1113
+Image Fetcher 0, READ: TLSv1.2 Application Data, length = 26
+Image Fetcher 0, READ: TLSv1.2 Application Data, length = 29
+Keep-Alive-Timer, called close()
+Keep-Alive-Timer, called closeInternal(true)
+Keep-Alive-Timer, SEND TLSv1.2 ALERT:  warning, description = close_notify
+Keep-Alive-Timer, WRITE: TLSv1.2 Alert, length = 26
+Keep-Alive-Timer, called closeSocket(true)
+Finalizer, called close()
+Finalizer, called closeInternal(true)
+»Õ‘Œ–Ã¿÷»ﬂ: GET https://api.openstreetmap.org/api/0.6/notes/search?limit=1000&closed=7&q=%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4
+Allow unsafe renegotiation: false
+Allow legacy hello messages: true
+Is initial handshake: true
+Is secure renegotiation: false
+pool-1-thread-1, setSoTimeout(0) called
+Ignoring unsupported cipher suite: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384 for TLSv1
+Ignoring unsupported cipher suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 for TLSv1
+Ignoring unsupported cipher suite: TLS_RSA_WITH_AES_256_CBC_SHA256 for TLSv1
+Ignoring unsupported cipher suite: TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384 for TLSv1
+Ignoring unsupported cipher suite: TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384 for TLSv1
+Ignoring unsupported cipher suite: TLS_DHE_RSA_WITH_AES_256_CBC_SHA256 for TLSv1
+Ignoring unsupported cipher suite: TLS_DHE_DSS_WITH_AES_256_CBC_SHA256 for TLSv1
+Ignoring unsupported cipher suite: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384 for TLSv1.1
+Ignoring unsupported cipher suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 for TLSv1.1
+Ignoring unsupported cipher suite: TLS_RSA_WITH_AES_256_CBC_SHA256 for TLSv1.1
+Ignoring unsupported cipher suite: TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384 for TLSv1.1
+Ignoring unsupported cipher suite: TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384 for TLSv1.1
+Ignoring unsupported cipher suite: TLS_DHE_RSA_WITH_AES_256_CBC_SHA256 for TLSv1.1
+Ignoring unsupported cipher suite: TLS_DHE_DSS_WITH_AES_256_CBC_SHA256 for TLSv1.1
+%% No cached client session
+*** ClientHello, TLSv1.2
+RandomCookie:  GMT: 1444756813 bytes = { 168, 219, 226, 24, 144, 117, 211, 105, 155, 206, 212, 187, 103, 22, 8, 2, 46, 93, 32, 40, 72, 28, 69, 227, 21, 55, 7, 247 }
+Session ID:  {}
+Cipher Suites: [TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_RSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA, TLS_ECDHE_ECDSA_WITH_RC4_128_SHA, TLS_ECDHE_RSA_WITH_RC4_128_SHA, SSL_RSA_WITH_RC4_128_SHA, TLS_ECDH_ECDSA_WITH_RC4_128_SHA, TLS_ECDH_RSA_WITH_RC4_128_SHA, SSL_RSA_WITH_RC4_128_MD5, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+Compression Methods:  { 0 }
+Extension elliptic_curves, curve names: {secp256r1, sect163k1, sect163r2, secp192r1, secp224r1, sect233k1, sect233r1, sect283k1, sect283r1, secp384r1, sect409k1, sect409r1, secp521r1, sect571k1, sect571r1, secp160k1, secp160r1, secp160r2, sect163r1, secp192k1, sect193r1, sect193r2, secp224k1, sect239k1, secp256k1}
+Extension ec_point_formats, formats: [uncompressed]
+Extension signature_algorithms, signature_algorithms: SHA512withECDSA, SHA512withRSA, SHA384withECDSA, SHA384withRSA, SHA256withECDSA, SHA256withRSA, SHA224withECDSA, SHA224withRSA, SHA1withECDSA, SHA1withRSA, SHA1withDSA, MD5withRSA
+***
+[write] MD5 and SHA1 hashes:  len = 249
+0000: 01 00 00 F5 03 03 56 1D   3D 4D A8 DB E2 18 90 75  ......V.=M.....u
+0010: D3 69 9B CE D4 BB 67 16   08 02 2E 5D 20 28 48 1C  .i....g....] (H.
+0020: 45 E3 15 37 07 F7 00 00   70 C0 24 C0 28 00 3D C0  E..7....p.$.(.=.
+0030: 26 C0 2A 00 6B 00 6A C0   0A C0 14 00 35 C0 05 C0  &.*.k.j.....5...
+0040: 0F 00 39 00 38 C0 23 C0   27 00 3C C0 25 C0 29 00  ..9.8.#.'.<.%.).
+0050: 67 00 40 C0 09 C0 13 00   2F C0 04 C0 0E 00 33 00  g.@...../.....3.
+0060: 32 C0 2C C0 2B C0 30 00   9D C0 2E C0 32 00 9F 00  2.,.+.0.....2...
+0070: A3 C0 2F 00 9C C0 2D C0   31 00 9E 00 A2 C0 08 C0  ../...-.1.......
+0080: 12 00 0A C0 03 C0 0D 00   16 00 13 C0 07 C0 11 00  ................
+0090: 05 C0 02 C0 0C 00 04 00   FF 01 00 00 5C 00 0A 00  ............\...
+00A0: 34 00 32 00 17 00 01 00   03 00 13 00 15 00 06 00  4.2.............
+00B0: 07 00 09 00 0A 00 18 00   0B 00 0C 00 19 00 0D 00  ................
+00C0: 0E 00 0F 00 10 00 11 00   02 00 12 00 04 00 05 00  ................
+00D0: 14 00 08 00 16 00 0B 00   02 01 00 00 0D 00 1A 00  ................
+00E0: 18 06 03 06 01 05 03 05   01 04 03 04 01 03 03 03  ................
+00F0: 01 02 03 02 01 02 02 01   01                       .........
+pool-1-thread-1, WRITE: TLSv1.2 Handshake, length = 249
+pool-1-thread-1, READ: TLSv1.2 Handshake, length = 89
+*** ServerHello, TLSv1.2
+RandomCookie:  GMT: -1993797140 bytes = { 80, 20, 164, 184, 169, 252, 22, 204, 140, 236, 5, 248, 51, 2, 175, 193, 157, 172, 57, 240, 135, 79, 69, 121, 174, 126, 62, 84 }
+Session ID:  {216, 198, 27, 242, 210, 152, 130, 144, 167, 231, 233, 26, 241, 165, 225, 168, 39, 148, 176, 67, 115, 223, 155, 48, 65, 211, 55, 74, 173, 207, 72, 107}
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+Compression Method: 0
+Extension renegotiation_info, renegotiated_connection: <empty>
+Extension ec_point_formats, formats: [uncompressed, ansiX962_compressed_prime, ansiX962_compressed_char2]
+***
+%% Initialized:  [Session-2, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384]
+** TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+[read] MD5 and SHA1 hashes:  len = 89
+0000: 02 00 00 55 03 03 89 29   12 EC 50 14 A4 B8 A9 FC  ...U...)..P.....
+0010: 16 CC 8C EC 05 F8 33 02   AF C1 9D AC 39 F0 87 4F  ......3.....9..O
+0020: 45 79 AE 7E 3E 54 20 D8   C6 1B F2 D2 98 82 90 A7  Ey..>T .........
+0030: E7 E9 1A F1 A5 E1 A8 27   94 B0 43 73 DF 9B 30 41  .......'..Cs..0A
+0040: D3 37 4A AD CF 48 6B C0   30 00 00 0D FF 01 00 01  .7J..Hk.0.......
+0050: 00 00 0B 00 04 03 00 01   02                       .........
+pool-1-thread-1, READ: TLSv1.2 Handshake, length = 2294
+*** Certificate chain
+chain [0] = [
+[
+  Version: V3
+  Subject: CN=*.openstreetmap.org, OU=Domain Control Validated - RapidSSL(R), OU=See www.rapidssl.com/resources/cps (c)12, OU=GT33044578
+  Signature Algorithm: SHA256withRSA, OID = 1.2.840.113549.1.1.11
+
+  Key:  Sun RSA public key, 2048 bits
+  modulus: 23485251242031628056714106205525943379550109750244921834573452892333046777103426303714009430541820001063036394993480242165184075052635674324626322098641781201454219617623819813313676822497087902398507699113915219885326118369501293201143400417400711336307198366526367848130539415314828204720745990278493610500339789026658215291728631147766839122996723325326930632591086325548564654761908771666901656881109002493203263816233077251697149705117073567080858689711057148145604828007184109169704276389087838921558161544263481374938876050742296857145836374430055884969659154435446858246306315665755882015209560127366355072743
+  public exponent: 65537
+  Validity: [From: Sat May 16 17:11:49 NOVT 2015,
+               To: Fri Mar 18 20:24:26 NOVT 2016]
+  Issuer: CN=RapidSSL SHA256 CA - G3, O=GeoTrust Inc., C=US
+  SerialNumber: [    046d27]
+
+Certificate Extensions: 8
+[1]: ObjectId: 1.3.6.1.5.5.7.1.1 Criticality=false
+AuthorityInfoAccess [
+  [
+   accessMethod: ocsp
+   accessLocation: URIName: http://gv.symcd.com
+, 
+   accessMethod: caIssuers
+   accessLocation: URIName: http://gv.symcb.com/gv.crt
+]
+]
+
+[2]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: C3 9C F3 FC D3 46 08 34   BB CE 46 7F A0 7C 5B F3  .....F.4..F...[.
+0010: E2 08 CB 59                                        ...Y
+]
+]
+
+[3]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:false
+  PathLen: undefined
+]
+
+[4]: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: http://gv.symcb.com/gv.crl]
+]]
+
+[5]: ObjectId: 2.5.29.32 Criticality=false
+CertificatePolicies [
+  [CertificatePolicyId: [2.23.140.1.2.1]
+[PolicyQualifierInfo: [
+  qualifierID: 1.3.6.1.5.5.7.2.1
+  qualifier: 0000: 16 1E 68 74 74 70 73 3A   2F 2F 77 77 77 2E 72 61  ..https://www.ra
+0010: 70 69 64 73 73 6C 2E 63   6F 6D 2F 6C 65 67 61 6C  pidssl.com/legal
+
+]]  ]
+]
+
+[6]: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  serverAuth
+  clientAuth
+]
+
+[7]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+  Key_Encipherment
+]
+
+[8]: ObjectId: 2.5.29.17 Criticality=false
+SubjectAlternativeName [
+  DNSName: *.openstreetmap.org
+  DNSName: openstreetmap.org
+]
+
+]
+  Algorithm: [SHA256withRSA]
+  Signature:
+0000: 07 6A 83 25 5F 1F 1D 8E   9C 6E 5C 7C 6D 50 16 7A  .j.%_....n\.mP.z
+0010: D9 91 6D 2B F8 CF 69 EB   79 09 1C 13 02 D9 62 76  ..m+..i.y.....bv
+0020: 4A 13 8C C6 D6 92 77 61   8C D8 E0 CA 91 37 50 D4  J.....wa.....7P.
+0030: 81 FD C9 9C 80 D9 65 F0   E8 05 5A 97 F0 03 C4 47  ......e...Z....G
+0040: 0E F8 2B 44 A0 59 FA CD   0F 43 B5 33 55 01 3A 4D  ..+D.Y...C.3U.:M
+0050: 8B 11 79 9C 67 64 54 25   EC 31 56 2C 96 F4 7C 47  ..y.gdT%.1V,...G
+0060: 00 31 DD 52 FA 4B 5A AE   8B E2 CA 42 04 FB DF 2F  .1.R.KZ....B.../
+0070: 4A 96 AE B4 DE 2D 1A 73   1D 07 33 B2 D6 A3 A2 26  J....-.s..3....&
+0080: 35 5F 1B 33 6C 87 51 D1   5A A7 25 F3 4C A6 E5 E0  5_.3l.Q.Z.%.L...
+0090: 0E DC 38 76 56 4E E3 34   2E EB 07 E0 BD B8 41 13  ..8vVN.4......A.
+00A0: A8 A8 63 F0 1B B1 5D 46   BF 8C 8D A5 B8 81 3C 20  ..c...]F......< 
+00B0: FE 17 3C F6 E7 37 DA 68   F9 DA 12 26 9C F1 82 EB  ..<..7.h...&....
+00C0: E1 3C 90 6D 91 E6 88 F2   DD A9 2F A3 58 FD 18 88  .<.m....../.X...
+00D0: C7 E7 6F 95 47 14 48 18   32 88 1F 40 49 B6 A5 D1  ..o.G.H.2..@I...
+00E0: 05 18 59 55 96 C0 ED FA   2B 3C 0E 3F CF E2 AC E5  ..YU....+<.?....
+00F0: D0 3D C7 27 85 24 B9 AC   7E 0A 10 FE 57 77 24 F3  .=.'.$......Ww$.
+
+]
+chain [1] = [
+[
+  Version: V3
+  Subject: CN=RapidSSL SHA256 CA - G3, O=GeoTrust Inc., C=US
+  Signature Algorithm: SHA256withRSA, OID = 1.2.840.113549.1.1.11
+
+  Key:  Sun RSA public key, 2048 bits
+  modulus: 22133425516035328406113670293169061523581644625661186763442800804361246764561650512386925896635819787868664793189519304170480146055984560752758864578152918891501071329811339814676456425742859787724008598301761106717363394607573139927614235197961516575328544500876037738526175362148108254486580924138664093495706866906810588022829085954055680447525483036341466990551646668199356097979434205913432254467441988290991996180968819250416069930082716461727513017467343362827603678633024740474642543539764148506156356962055304513947726874789473383097703349442259309028284224785688753924754463317737086042173141189236649211481
+  public exponent: 65537
+  Validity: [From: Sat Aug 30 04:39:32 NOVT 2014,
+               To: Sat May 21 03:39:32 NOVT 2022]
+  Issuer: CN=GeoTrust Global CA, O=GeoTrust Inc., C=US
+  SerialNumber: [    023a77]
+
+Certificate Extensions: 7
+[1]: ObjectId: 1.3.6.1.5.5.7.1.1 Criticality=false
+AuthorityInfoAccess [
+  [
+   accessMethod: ocsp
+   accessLocation: URIName: http://g.symcd.com
+]
+]
+
+[2]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: C0 7A 98 68 8D 89 FB AB   05 64 0C 11 7D AA 7D 65  .z.h.....d.....e
+0010: B8 CA CC 4E                                        ...N
+]
+]
+
+[3]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:true
+  PathLen:0
+]
+
+[4]: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: http://g.symcb.com/crls/gtglobal.crl]
+]]
+
+[5]: ObjectId: 2.5.29.32 Criticality=false
+CertificatePolicies [
+  [CertificatePolicyId: [2.16.840.1.113733.1.7.54]
+[PolicyQualifierInfo: [
+  qualifierID: 1.3.6.1.5.5.7.2.1
+  qualifier: 0000: 16 25 68 74 74 70 3A 2F   2F 77 77 77 2E 67 65 6F  .%http://www.geo
+0010: 74 72 75 73 74 2E 63 6F   6D 2F 72 65 73 6F 75 72  trust.com/resour
+0020: 63 65 73 2F 63 70 73                               ces/cps
+
+]]  ]
+]
+
+[6]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  Key_CertSign
+  Crl_Sign
+]
+
+[7]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: C3 9C F3 FC D3 46 08 34   BB CE 46 7F A0 7C 5B F3  .....F.4..F...[.
+0010: E2 08 CB 59                                        ...Y
+]
+]
+
+]
+  Algorithm: [SHA256withRSA]
+  Signature:
+0000: A3 58 1E C6 43 32 AC AC   2F 93 78 B7 EA AE 54 40  .X..C2../.x...T@
+0010: 47 2D 7E 78 8D 50 F6 F8   66 AC D6 4F 73 D6 44 EF  G-.x.P..f..Os.D.
+0020: AF 0B CC 5B C1 F4 4F 9A   8F 49 7E 60 AF C2 27 C7  ...[..O..I.`..'.
+0030: 16 F1 FB 93 81 90 A9 7C   EF 6F 7E 6E 45 94 16 84  .........o.nE...
+0040: BD EC 49 F1 C4 0E F4 AF   04 59 83 87 0F 2C 3B 97  ..I......Y...,;.
+0050: C3 5A 12 9B 7B 04 35 7B   A3 95 33 08 7B 93 71 22  .Z....5...3...q"
+0060: 42 B3 A9 D9 6F 4F 81 92   FC 07 B6 79 BC 84 4A 9D  B...oO.....y..J.
+0070: 77 09 F1 C5 89 F2 F0 B4   9C 54 AA 12 7B 0D BA 4F  w........T.....O
+0080: EF 93 19 EC EF 7D 4E 61   A3 8E 76 9C 59 CF 8C 94  ......Na..v.Y...
+0090: B1 84 97 F7 1A B9 07 B8   B2 C6 4F 13 79 DB BF 4F  ..........O.y..O
+00A0: 51 1B 7F 69 0D 51 2A C1   D6 15 FF 37 51 34 65 51  Q..i.Q*....7Q4eQ
+00B0: F4 1E BE 38 6A EC 0E AB   BF 3D 7B 39 05 7B F4 F3  ...8j....=.9....
+00C0: FB 1A A1 D0 C8 7E 4E 64   8D CD 8C 61 55 90 FE 3A  ......Nd...aU..:
+00D0: CA 5D 25 0F F8 1D A3 4A   74 56 4F 1A 55 40 70 75  .]%....JtVO.U@pu
+00E0: 25 A6 33 2E BA 4B A5 5D   53 9A 0D 30 E1 8D 5F 61  %.3..K.]S..0.._a
+00F0: 2C AF CC EF B0 99 A1 80   FF 0B F2 62 4C 70 26 98  ,..........bLp&.
+
+]
+***
+Found trusted certificate:
+[
+[
+  Version: V3
+  Subject: CN=GeoTrust Global CA, O=GeoTrust Inc., C=US
+  Signature Algorithm: SHA1withRSA, OID = 1.2.840.113549.1.1.5
+
+  Key:  Sun RSA public key, 2048 bits
+  modulus: 27620593608073140957439440929253438012688864718977347268272053725994928948867769687165112265058896553974818505070806430256424431940072485024407486246475597522063246121214348496326377341879755851197260401080498544606788760407243324127929930612201002157618691487713632251700065187865963692723720912135393438861302779432180613616167225206519123176430362410262429702404863434904116727055203524505580952824336979641923534005571504410997292144760317953739063178352809680844232935574095508445145910310675421726257114605895831426222686272114090063230017292595425393719031924942422176213538487957041730136782988405751614792953
+  public exponent: 65537
+  Validity: [From: Tue May 21 11:00:00 NOVST 2002,
+               To: Sat May 21 10:00:00 NOVT 2022]
+  Issuer: CN=GeoTrust Global CA, O=GeoTrust Inc., C=US
+  SerialNumber: [    023456]
+
+Certificate Extensions: 3
+[1]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: C0 7A 98 68 8D 89 FB AB   05 64 0C 11 7D AA 7D 65  .z.h.....d.....e
+0010: B8 CA CC 4E                                        ...N
+]
+]
+
+[2]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:true
+  PathLen:2147483647
+]
+
+[3]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: C0 7A 98 68 8D 89 FB AB   05 64 0C 11 7D AA 7D 65  .z.h.....d.....e
+0010: B8 CA CC 4E                                        ...N
+]
+]
+
+]
+  Algorithm: [SHA1withRSA]
+  Signature:
+0000: 35 E3 29 6A E5 2F 5D 54   8E 29 50 94 9F 99 1A 14  5.)j./]T.)P.....
+0010: E4 8F 78 2A 62 94 A2 27   67 9E D0 CF 1A 5E 47 E9  ..x*b..'g....^G.
+0020: C1 B2 A4 CF DD 41 1A 05   4E 9B 4B EE 4A 6F 55 52  .....A..N.K.JoUR
+0030: B3 24 A1 37 0A EB 64 76   2A 2E 2C F3 FD 3B 75 90  .$.7..dv*.,..;u.
+0040: BF FA 71 D8 C7 3D 37 D2   B5 05 95 62 B9 A6 DE 89  ..q..=7....b....
+0050: 3D 36 7B 38 77 48 97 AC   A6 20 8F 2E A6 C9 0C C2  =6.8wH... ......
+0060: B2 99 45 00 C7 CE 11 51   22 22 E0 A5 EA B6 15 48  ..E....Q"".....H
+0070: 09 64 EA 5E 4F 74 F7 05   3E C7 8A 52 0C DB 15 B4  .d.^Ot..>..R....
+0080: BD 6D 9B E5 C6 B1 54 68   A9 E3 69 90 B6 9A A5 0F  .m....Th..i.....
+0090: B8 B9 3F 20 7D AE 4A B5   B8 9C E4 1D B6 AB E6 94  ..? ..J.........
+00A0: A5 C1 C7 83 AD DB F5 27   87 0E 04 6C D5 FF DD A0  .......'...l....
+00B0: 5D ED 87 52 B7 2B 15 02   AE 39 A6 6A 74 E9 DA C4  ]..R.+...9.jt...
+00C0: E7 BC 4D 34 1E A9 5C 4D   33 5F 92 09 2F 88 66 5D  ..M4..\M3_../.f]
+00D0: 77 97 C7 1D 76 13 A9 D5   E5 F1 16 09 11 35 D5 AC  w...v........5..
+00E0: DB 24 71 70 2C 98 56 0B   D9 17 B4 D1 E3 51 2B 5E  .$qp,.V......Q+^
+00F0: 75 E8 D5 D0 DC 4F 34 ED   C2 05 66 80 A1 CB E6 33  u....O4...f....3
+
+]
+[read] MD5 and SHA1 hashes:  len = 2294
+0000: 0B 00 08 F2 00 08 EF 00   04 C0 30 82 04 BC 30 82  ..........0...0.
+0010: 03 A4 A0 03 02 01 02 02   03 04 6D 27 30 0D 06 09  ..........m'0...
+0020: 2A 86 48 86 F7 0D 01 01   0B 05 00 30 47 31 0B 30  *.H........0G1.0
+0030: 09 06 03 55 04 06 13 02   55 53 31 16 30 14 06 03  ...U....US1.0...
+0040: 55 04 0A 13 0D 47 65 6F   54 72 75 73 74 20 49 6E  U....GeoTrust In
+0050: 63 2E 31 20 30 1E 06 03   55 04 03 13 17 52 61 70  c.1 0...U....Rap
+0060: 69 64 53 53 4C 20 53 48   41 32 35 36 20 43 41 20  idSSL SHA256 CA 
+0070: 2D 20 47 33 30 1E 17 0D   31 35 30 35 31 36 31 31  - G30...15051611
+0080: 31 31 34 39 5A 17 0D 31   36 30 33 31 38 31 34 32  1149Z..160318142
+0090: 34 32 36 5A 30 81 97 31   13 30 11 06 03 55 04 0B  426Z0..1.0...U..
+00A0: 13 0A 47 54 33 33 30 34   34 35 37 38 31 31 30 2F  ..GT33044578110/
+00B0: 06 03 55 04 0B 13 28 53   65 65 20 77 77 77 2E 72  ..U...(See www.r
+00C0: 61 70 69 64 73 73 6C 2E   63 6F 6D 2F 72 65 73 6F  apidssl.com/reso
+00D0: 75 72 63 65 73 2F 63 70   73 20 28 63 29 31 32 31  urces/cps (c)121
+00E0: 2F 30 2D 06 03 55 04 0B   13 26 44 6F 6D 61 69 6E  /0-..U...&Domain
+00F0: 20 43 6F 6E 74 72 6F 6C   20 56 61 6C 69 64 61 74   Control Validat
+0100: 65 64 20 2D 20 52 61 70   69 64 53 53 4C 28 52 29  ed - RapidSSL(R)
+0110: 31 1C 30 1A 06 03 55 04   03 0C 13 2A 2E 6F 70 65  1.0...U....*.ope
+0120: 6E 73 74 72 65 65 74 6D   61 70 2E 6F 72 67 30 82  nstreetmap.org0.
+0130: 01 22 30 0D 06 09 2A 86   48 86 F7 0D 01 01 01 05  ."0...*.H.......
+0140: 00 03 82 01 0F 00 30 82   01 0A 02 82 01 01 00 BA  ......0.........
+0150: 09 FD 93 F5 0E A7 6E 8E   3F 1F 78 45 76 BF C1 80  ......n.?.xEv...
+0160: C8 DF 02 3E 4F 98 3F 43   04 ED 7E 60 75 5C 53 8F  ...>O.?C...`u\S.
+0170: B6 C1 42 35 AF 30 F2 D3   F8 08 71 91 35 7F A0 7E  ..B5.0....q.5...
+0180: A1 EC F0 A4 FC 4C 3D EC   F2 9C 68 E2 0A 32 64 4A  .....L=...h..2dJ
+0190: 90 28 71 0E 3E 45 63 C8   9A 49 CD 31 C5 CD 32 19  .(q.>Ec..I.1..2.
+01A0: 7A 95 45 86 A5 C0 9D E7   87 5D D2 46 E1 CB 79 82  z.E......].F..y.
+01B0: 69 F6 C8 5E 71 79 A1 6D   19 44 B7 E6 93 73 8D 32  i..^qy.m.D...s.2
+01C0: E2 06 C9 97 D1 69 3F A0   5B 2B 0F 99 0F 7E 31 42  .....i?.[+....1B
+01D0: EB 02 10 75 80 9D 77 07   EA A7 9F 85 8C B2 BB 74  ...u..w........t
+01E0: 42 A6 8B 18 E0 C4 3A 13   E7 67 17 17 3D 1B 29 CE  B.....:..g..=.).
+01F0: 84 16 E9 C0 4E 18 F5 14   DA BD 38 94 4E EA 27 22  ....N.....8.N.'"
+0200: 9A 2C E4 81 71 F9 33 70   C3 F5 82 FA D3 BD 2F 90  .,..q.3p....../.
+0210: B0 91 6F E2 C0 94 A7 49   E7 54 DB 1A 01 8C C2 C0  ..o....I.T......
+0220: 82 5B 71 80 87 EF D8 5B   7D 42 6C D1 3D F0 A8 ED  .[q....[.Bl.=...
+0230: 9E 45 EC 25 AC 10 55 81   3B 80 E4 73 08 E6 BD FD  .E.%..U.;..s....
+0240: 37 06 17 A3 06 43 B5 C9   3E C1 66 1A 95 B6 E7 02  7....C..>.f.....
+0250: 03 01 00 01 A3 82 01 5E   30 82 01 5A 30 1F 06 03  .......^0..Z0...
+0260: 55 1D 23 04 18 30 16 80   14 C3 9C F3 FC D3 46 08  U.#..0........F.
+0270: 34 BB CE 46 7F A0 7C 5B   F3 E2 08 CB 59 30 57 06  4..F...[....Y0W.
+0280: 08 2B 06 01 05 05 07 01   01 04 4B 30 49 30 1F 06  .+........K0I0..
+0290: 08 2B 06 01 05 05 07 30   01 86 13 68 74 74 70 3A  .+.....0...http:
+02A0: 2F 2F 67 76 2E 73 79 6D   63 64 2E 63 6F 6D 30 26  //gv.symcd.com0&
+02B0: 06 08 2B 06 01 05 05 07   30 02 86 1A 68 74 74 70  ..+.....0...http
+02C0: 3A 2F 2F 67 76 2E 73 79   6D 63 62 2E 63 6F 6D 2F  ://gv.symcb.com/
+02D0: 67 76 2E 63 72 74 30 0E   06 03 55 1D 0F 01 01 FF  gv.crt0...U.....
+02E0: 04 04 03 02 05 A0 30 1D   06 03 55 1D 25 04 16 30  ......0...U.%..0
+02F0: 14 06 08 2B 06 01 05 05   07 03 01 06 08 2B 06 01  ...+.........+..
+0300: 05 05 07 03 02 30 31 06   03 55 1D 11 04 2A 30 28  .....01..U...*0(
+0310: 82 13 2A 2E 6F 70 65 6E   73 74 72 65 65 74 6D 61  ..*.openstreetma
+0320: 70 2E 6F 72 67 82 11 6F   70 65 6E 73 74 72 65 65  p.org..openstree
+0330: 74 6D 61 70 2E 6F 72 67   30 2B 06 03 55 1D 1F 04  tmap.org0+..U...
+0340: 24 30 22 30 20 A0 1E A0   1C 86 1A 68 74 74 70 3A  $0"0 ......http:
+0350: 2F 2F 67 76 2E 73 79 6D   63 62 2E 63 6F 6D 2F 67  //gv.symcb.com/g
+0360: 76 2E 63 72 6C 30 0C 06   03 55 1D 13 01 01 FF 04  v.crl0...U......
+0370: 02 30 00 30 41 06 03 55   1D 20 04 3A 30 38 30 36  .0.0A..U. .:0806
+0380: 06 06 67 81 0C 01 02 01   30 2C 30 2A 06 08 2B 06  ..g.....0,0*..+.
+0390: 01 05 05 07 02 01 16 1E   68 74 74 70 73 3A 2F 2F  ........https://
+03A0: 77 77 77 2E 72 61 70 69   64 73 73 6C 2E 63 6F 6D  www.rapidssl.com
+03B0: 2F 6C 65 67 61 6C 30 0D   06 09 2A 86 48 86 F7 0D  /legal0...*.H...
+03C0: 01 01 0B 05 00 03 82 01   01 00 07 6A 83 25 5F 1F  ...........j.%_.
+03D0: 1D 8E 9C 6E 5C 7C 6D 50   16 7A D9 91 6D 2B F8 CF  ...n\.mP.z..m+..
+03E0: 69 EB 79 09 1C 13 02 D9   62 76 4A 13 8C C6 D6 92  i.y.....bvJ.....
+03F0: 77 61 8C D8 E0 CA 91 37   50 D4 81 FD C9 9C 80 D9  wa.....7P.......
+0400: 65 F0 E8 05 5A 97 F0 03   C4 47 0E F8 2B 44 A0 59  e...Z....G..+D.Y
+0410: FA CD 0F 43 B5 33 55 01   3A 4D 8B 11 79 9C 67 64  ...C.3U.:M..y.gd
+0420: 54 25 EC 31 56 2C 96 F4   7C 47 00 31 DD 52 FA 4B  T%.1V,...G.1.R.K
+0430: 5A AE 8B E2 CA 42 04 FB   DF 2F 4A 96 AE B4 DE 2D  Z....B.../J....-
+0440: 1A 73 1D 07 33 B2 D6 A3   A2 26 35 5F 1B 33 6C 87  .s..3....&5_.3l.
+0450: 51 D1 5A A7 25 F3 4C A6   E5 E0 0E DC 38 76 56 4E  Q.Z.%.L.....8vVN
+0460: E3 34 2E EB 07 E0 BD B8   41 13 A8 A8 63 F0 1B B1  .4......A...c...
+0470: 5D 46 BF 8C 8D A5 B8 81   3C 20 FE 17 3C F6 E7 37  ]F......< ..<..7
+0480: DA 68 F9 DA 12 26 9C F1   82 EB E1 3C 90 6D 91 E6  .h...&.....<.m..
+0490: 88 F2 DD A9 2F A3 58 FD   18 88 C7 E7 6F 95 47 14  ..../.X.....o.G.
+04A0: 48 18 32 88 1F 40 49 B6   A5 D1 05 18 59 55 96 C0  H.2..@I.....YU..
+04B0: ED FA 2B 3C 0E 3F CF E2   AC E5 D0 3D C7 27 85 24  ..+<.?.....=.'.$
+04C0: B9 AC 7E 0A 10 FE 57 77   24 F3 00 04 29 30 82 04  ......Ww$...)0..
+04D0: 25 30 82 03 0D A0 03 02   01 02 02 03 02 3A 77 30  %0...........:w0
+04E0: 0D 06 09 2A 86 48 86 F7   0D 01 01 0B 05 00 30 42  ...*.H........0B
+04F0: 31 0B 30 09 06 03 55 04   06 13 02 55 53 31 16 30  1.0...U....US1.0
+0500: 14 06 03 55 04 0A 13 0D   47 65 6F 54 72 75 73 74  ...U....GeoTrust
+0510: 20 49 6E 63 2E 31 1B 30   19 06 03 55 04 03 13 12   Inc.1.0...U....
+0520: 47 65 6F 54 72 75 73 74   20 47 6C 6F 62 61 6C 20  GeoTrust Global 
+0530: 43 41 30 1E 17 0D 31 34   30 38 32 39 32 31 33 39  CA0...1408292139
+0540: 33 32 5A 17 0D 32 32 30   35 32 30 32 31 33 39 33  32Z..22052021393
+0550: 32 5A 30 47 31 0B 30 09   06 03 55 04 06 13 02 55  2Z0G1.0...U....U
+0560: 53 31 16 30 14 06 03 55   04 0A 13 0D 47 65 6F 54  S1.0...U....GeoT
+0570: 72 75 73 74 20 49 6E 63   2E 31 20 30 1E 06 03 55  rust Inc.1 0...U
+0580: 04 03 13 17 52 61 70 69   64 53 53 4C 20 53 48 41  ....RapidSSL SHA
+0590: 32 35 36 20 43 41 20 2D   20 47 33 30 82 01 22 30  256 CA - G30.."0
+05A0: 0D 06 09 2A 86 48 86 F7   0D 01 01 01 05 00 03 82  ...*.H..........
+05B0: 01 0F 00 30 82 01 0A 02   82 01 01 00 AF 54 9B D9  ...0.........T..
+05C0: 58 5D 1E 2C 56 C6 D5 E8   7F F4 7D 16 03 FF D0 8B  X].,V...........
+05D0: 5A E4 8E A7 DD 54 2E D4   04 C0 5D 98 9C 8D 90 0F  Z....T....].....
+05E0: BC 10 65 5F DA 9A D6 44   7C C0 9F B5 E9 4A 8C 0B  ..e_...D.....J..
+05F0: 06 43 04 BB F4 96 E2 26   F6 61 01 91 66 31 22 C3  .C.....&.a..f1".
+0600: 34 34 5F 3F 3F 91 2F 44   5F DC C7 14 B6 03 9F 86  44_??./D_.......
+0610: 4B 0E A3 FF A0 80 02 83   C3 D3 1F 69 52 D6 9D 64  K..........iR..d
+0620: 0F C9 83 E7 1B C4 70 AC   94 E7 C3 A4 6A 2C BD B8  ......p.....j,..
+0630: 9E 69 D8 BE 0A 8F 16 63   5A 68 71 80 7B 30 DE 15  .i.....cZhq..0..
+0640: 04 BF CC D3 BF 3E 48 05   55 7A B3 D7 10 0C 03 FC  .....>H.Uz......
+0650: 9B FD 08 A7 8C 8C DB A7   8E F1 1E 63 DC B3 01 2F  ...........c.../
+0660: 7F AF 57 C3 3C 48 A7 83   68 21 A7 2F E7 A7 3F F0  ..W.<H..h!./..?.
+0670: B5 0C FC F5 84 D1 53 BC   0E 72 4F 60 0C 42 B8 98  ......S..rO`.B..
+0680: AD 19 88 57 D7 04 EC 87   BF 7E 87 4E A3 21 F9 53  ...W.......N.!.S
+0690: FD 36 98 48 8D D6 F8 BB   48 F2 29 C8 64 D1 CC 54  .6.H....H.).d..T
+06A0: 48 53 8B AF B7 65 1E BF   29 33 29 D9 29 60 48 F8  HS...e..)3).)`H.
+06B0: FF 91 BC 57 58 E5 35 2E   BB 69 B6 59 02 03 01 00  ...WX.5..i.Y....
+06C0: 01 A3 82 01 1D 30 82 01   19 30 1F 06 03 55 1D 23  .....0...0...U.#
+06D0: 04 18 30 16 80 14 C0 7A   98 68 8D 89 FB AB 05 64  ..0....z.h.....d
+06E0: 0C 11 7D AA 7D 65 B8 CA   CC 4E 30 1D 06 03 55 1D  .....e...N0...U.
+06F0: 0E 04 16 04 14 C3 9C F3   FC D3 46 08 34 BB CE 46  ..........F.4..F
+0700: 7F A0 7C 5B F3 E2 08 CB   59 30 12 06 03 55 1D 13  ...[....Y0...U..
+0710: 01 01 FF 04 08 30 06 01   01 FF 02 01 00 30 0E 06  .....0.......0..
+0720: 03 55 1D 0F 01 01 FF 04   04 03 02 01 06 30 35 06  .U...........05.
+0730: 03 55 1D 1F 04 2E 30 2C   30 2A A0 28 A0 26 86 24  .U....0,0*.(.&.$
+0740: 68 74 74 70 3A 2F 2F 67   2E 73 79 6D 63 62 2E 63  http://g.symcb.c
+0750: 6F 6D 2F 63 72 6C 73 2F   67 74 67 6C 6F 62 61 6C  om/crls/gtglobal
+0760: 2E 63 72 6C 30 2E 06 08   2B 06 01 05 05 07 01 01  .crl0...+.......
+0770: 04 22 30 20 30 1E 06 08   2B 06 01 05 05 07 30 01  ."0 0...+.....0.
+0780: 86 12 68 74 74 70 3A 2F   2F 67 2E 73 79 6D 63 64  ..http://g.symcd
+0790: 2E 63 6F 6D 30 4C 06 03   55 1D 20 04 45 30 43 30  .com0L..U. .E0C0
+07A0: 41 06 0A 60 86 48 01 86   F8 45 01 07 36 30 33 30  A..`.H...E..6030
+07B0: 31 06 08 2B 06 01 05 05   07 02 01 16 25 68 74 74  1..+........%htt
+07C0: 70 3A 2F 2F 77 77 77 2E   67 65 6F 74 72 75 73 74  p://www.geotrust
+07D0: 2E 63 6F 6D 2F 72 65 73   6F 75 72 63 65 73 2F 63  .com/resources/c
+07E0: 70 73 30 0D 06 09 2A 86   48 86 F7 0D 01 01 0B 05  ps0...*.H.......
+07F0: 00 03 82 01 01 00 A3 58   1E C6 43 32 AC AC 2F 93  .......X..C2../.
+0800: 78 B7 EA AE 54 40 47 2D   7E 78 8D 50 F6 F8 66 AC  x...T@G-.x.P..f.
+0810: D6 4F 73 D6 44 EF AF 0B   CC 5B C1 F4 4F 9A 8F 49  .Os.D....[..O..I
+0820: 7E 60 AF C2 27 C7 16 F1   FB 93 81 90 A9 7C EF 6F  .`..'..........o
+0830: 7E 6E 45 94 16 84 BD EC   49 F1 C4 0E F4 AF 04 59  .nE.....I......Y
+0840: 83 87 0F 2C 3B 97 C3 5A   12 9B 7B 04 35 7B A3 95  ...,;..Z....5...
+0850: 33 08 7B 93 71 22 42 B3   A9 D9 6F 4F 81 92 FC 07  3...q"B...oO....
+0860: B6 79 BC 84 4A 9D 77 09   F1 C5 89 F2 F0 B4 9C 54  .y..J.w........T
+0870: AA 12 7B 0D BA 4F EF 93   19 EC EF 7D 4E 61 A3 8E  .....O......Na..
+0880: 76 9C 59 CF 8C 94 B1 84   97 F7 1A B9 07 B8 B2 C6  v.Y.............
+0890: 4F 13 79 DB BF 4F 51 1B   7F 69 0D 51 2A C1 D6 15  O.y..OQ..i.Q*...
+08A0: FF 37 51 34 65 51 F4 1E   BE 38 6A EC 0E AB BF 3D  .7Q4eQ...8j....=
+08B0: 7B 39 05 7B F4 F3 FB 1A   A1 D0 C8 7E 4E 64 8D CD  .9..........Nd..
+08C0: 8C 61 55 90 FE 3A CA 5D   25 0F F8 1D A3 4A 74 56  .aU..:.]%....JtV
+08D0: 4F 1A 55 40 70 75 25 A6   33 2E BA 4B A5 5D 53 9A  O.U@pu%.3..K.]S.
+08E0: 0D 30 E1 8D 5F 61 2C AF   CC EF B0 99 A1 80 FF 0B  .0.._a,.........
+08F0: F2 62 4C 70 26 98                                  .bLp&.
+pool-1-thread-1, READ: TLSv1.2 Handshake, length = 333
+*** ECDH ServerKeyExchange
+Signature Algorithm SHA512withRSA
+Server key: Sun EC public key, 256 bits
+  public x coord: 30662479604371387663025268814834911083445214617364772892867419119022053710927
+  public y coord: 33135536502152479418391351213325623634027224154139327965736518587408286709718
+  parameters: secp256r1 [NIST P-256, X9.62 prime256v1] (1.2.840.10045.3.1.7)
+[read] MD5 and SHA1 hashes:  len = 333
+0000: 0C 00 01 49 03 00 17 41   04 43 CA 59 33 70 49 60  ...I...A.C.Y3pI`
+0010: 24 E0 4A 57 64 CD D9 F2   57 56 EC E8 73 29 55 42  $.JWd...WV..s)UB
+0020: FF EB 6D 3F DE ED 4A DC   4F 49 42 0C 8E 00 49 19  ..m?..J.OIB...I.
+0030: 87 08 1C FF F5 B9 00 F9   F1 D6 2C 60 23 80 18 BB  ..........,`#...
+0040: 88 1F 75 DB D6 9F 8B 77   D6 06 01 01 00 04 B6 10  ..u....w........
+0050: 9C F0 D4 71 D1 8B 2C 85   35 07 92 53 C8 68 1C 2C  ...q..,.5..S.h.,
+0060: EA 20 28 79 C3 51 26 BB   A7 86 95 58 5C F4 61 38  . (y.Q&....X\.a8
+0070: 1A 94 49 8E 8E 9C E6 DC   07 A9 19 8D AA 40 DB C5  ..I..........@..
+0080: 16 87 3B E2 1F BE EC B2   46 29 83 4D 87 E6 F3 65  ..;.....F).M...e
+0090: FB E6 46 FE 5B 90 80 62   B4 4E 62 A6 6D F1 C3 E2  ..F.[..b.Nb.m...
+00A0: 63 CE 59 95 DA 2D F4 EE   4D 60 2F 88 7C DA A3 CB  c.Y..-..M`/.....
+00B0: ED A7 92 3A 31 45 1F EA   2C 6A 18 56 8E 0D EE 18  ...:1E..,j.V....
+00C0: 26 73 B4 08 C8 9E 17 38   E4 6D 53 72 D8 DE 40 3B  &s.....8.mSr..@;
+00D0: 10 A2 44 CB 1C 3C 99 BC   8E F6 A9 79 3B 0C 87 C7  ..D..<.....y;...
+00E0: 21 4F BB 75 27 F2 94 F8   6B E9 83 F2 E2 68 CF 3B  !O.u'...k....h.;
+00F0: 2D FA DC A3 00 C7 CE 4F   41 C3 98 B2 32 20 9B DB  -......OA...2 ..
+0100: 7F 29 B7 31 72 95 AB D5   B9 F9 B9 57 6C C0 71 06  .).1r......Wl.q.
+0110: C4 A4 1E E9 13 BF BB F1   1E D3 23 DC 62 AB 92 EE  ..........#.b...
+0120: 2B BA CA 80 94 2A 12 07   AB D1 FB 17 93 3E 48 22  +....*.......>H"
+0130: 11 48 47 1B 39 95 BE 81   26 32 6A DE 71 57 A2 38  .HG.9...&2j.qW.8
+0140: A0 E4 EF 3E 22 B1 3D 59   61 72 CF BA 0A           ...>".=Yar...
+pool-1-thread-1, READ: TLSv1.2 Handshake, length = 4
+*** ServerHelloDone
+[read] MD5 and SHA1 hashes:  len = 4
+0000: 0E 00 00 00                                        ....
+*** ECDHClientKeyExchange
+ECDH Public value:  { 4, 29, 154, 96, 207, 33, 170, 124, 90, 87, 29, 31, 250, 83, 248, 237, 130, 19, 52, 155, 213, 207, 226, 146, 9, 228, 135, 167, 253, 9, 11, 232, 6, 78, 118, 186, 14, 227, 255, 175, 150, 244, 233, 180, 82, 117, 19, 164, 84, 201, 50, 49, 35, 245, 211, 29, 163, 69, 154, 241, 165, 182, 109, 86, 36 }
+[write] MD5 and SHA1 hashes:  len = 70
+0000: 10 00 00 42 41 04 1D 9A   60 CF 21 AA 7C 5A 57 1D  ...BA...`.!..ZW.
+0010: 1F FA 53 F8 ED 82 13 34   9B D5 CF E2 92 09 E4 87  ..S....4........
+0020: A7 FD 09 0B E8 06 4E 76   BA 0E E3 FF AF 96 F4 E9  ......Nv........
+0030: B4 52 75 13 A4 54 C9 32   31 23 F5 D3 1D A3 45 9A  .Ru..T.21#....E.
+0040: F1 A5 B6 6D 56 24                                  ...mV$
+pool-1-thread-1, WRITE: TLSv1.2 Handshake, length = 70
+SESSION KEYGEN:
+PreMaster Secret:
+0000: 14 2C C2 C3 89 07 48 CA   B3 B5 46 E1 39 0A 4F 5B  .,....H...F.9.O[
+0010: 8F 1A CF 74 9D F4 30 0F   9D 95 91 A2 E8 B4 1E 94  ...t..0.........
+CONNECTION KEYGEN:
+Client Nonce:
+0000: 56 1D 3D 4D A8 DB E2 18   90 75 D3 69 9B CE D4 BB  V.=M.....u.i....
+0010: 67 16 08 02 2E 5D 20 28   48 1C 45 E3 15 37 07 F7  g....] (H.E..7..
+Server Nonce:
+0000: 89 29 12 EC 50 14 A4 B8   A9 FC 16 CC 8C EC 05 F8  .)..P...........
+0010: 33 02 AF C1 9D AC 39 F0   87 4F 45 79 AE 7E 3E 54  3.....9..OEy..>T
+Master Secret:
+0000: 65 06 FD 29 C1 29 13 26   D3 6B 94 69 D5 EB 59 82  e..).).&.k.i..Y.
+0010: 90 BB FD CC 49 62 DE D6   D5 0E 05 1B 1C 64 74 22  ....Ib.......dt"
+0020: 8D 66 88 B4 C4 B6 26 52   43 3C 97 E4 B5 E6 DC 47  .f....&RC<.....G
+... no MAC keys used for this cipher
+Client write key:
+0000: 07 B4 05 56 95 77 75 1C   46 E6 2D 6C 84 8E 20 31  ...V.wu.F.-l.. 1
+0010: 73 82 B1 86 85 50 40 87   0A 15 AA 82 D2 09 F0 E8  s....P@.........
+Server write key:
+0000: 0C 18 17 D4 AC CB 78 F3   CE C7 C0 7F 46 96 C1 97  ......x.....F...
+0010: 34 CE A1 2A 9D 0F 98 41   0E D4 F6 E9 AA 77 D9 D4  4..*...A.....w..
+Client write IV:
+0000: 4A 02 1C 8F                                        J...
+Server write IV:
+0000: 2D CB 1F 0E                                        -...
+pool-1-thread-1, WRITE: TLSv1.2 Change Cipher Spec, length = 1
+*** Finished
+verify_data:  { 126, 7, 195, 85, 48, 202, 222, 114, 246, 134, 56, 119 }
+***
+[write] MD5 and SHA1 hashes:  len = 16
+0000: 14 00 00 0C 7E 07 C3 55   30 CA DE 72 F6 86 38 77  .......U0..r..8w
+pool-1-thread-1, WRITE: TLSv1.2 Handshake, length = 40
+pool-1-thread-1, READ: TLSv1.2 Change Cipher Spec, length = 1
+pool-1-thread-1, READ: TLSv1.2 Handshake, length = 40
+*** Finished
+verify_data:  { 145, 115, 58, 24, 234, 64, 110, 85, 142, 51, 204, 51 }
+***
+%% Cached client session: [Session-2, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384]
+[read] MD5 and SHA1 hashes:  len = 16
+0000: 14 00 00 0C 91 73 3A 18   EA 40 6E 55 8E 33 CC 33  .....s:..@nU.3.3
+pool-1-thread-1, WRITE: TLSv1.2 Application Data, length = 387
+pool-1-thread-1, READ: TLSv1.2 Application Data, length = 602
+pool-1-thread-1, READ: TLSv1.2 Application Data, length = 124
+pool-1-thread-1, READ: TLSv1.2 Application Data, length = 32
+pool-1-thread-1, called close()
+pool-1-thread-1, called closeInternal(true)
+pool-1-thread-1, SEND TLSv1.2 ALERT:  warning, description = close_notify
+pool-1-thread-1, WRITE: TLSv1.2 Alert, length = 26
+pool-1-thread-1, called closeSocket(true)
+()==>IID_IShellIconOverlayIdentifier
+23:19.16 79[dbg] CShellExt::AddRef()
+23:19.16 80[dbg] CShellExt::AddRef()
+23:19.16 81[dbg] CShellExt::Release()
+23:19.16 82[dbg] CShellExt::QueryInterface()==>IID_IShellIconOverlayIdentifier
+23:19.16 83[dbg] CShellExt::AddRef()
+23:19.16 84[dbg] CShellExt::Release()
+23:19.16 85[dbg] Entering CShellExt::GetOverlayInfo
+23:19.16 86[dbg] Icon path: C:\Program Files (x86)\Hewlett-Packard\HP CloudDrive\icons\fw.ico
+23:19.16 87[dbg] Exiting CShellExt::GetOverlayInfo successfully.
+23:19.16 88[dbg] Time to execute: 0ms
+23:19.16 89[dbg] Entering CShellExt::GetPriority
+23:19.16 90[dbg] Exiting CShellExt::GetPriority
+23:19.16 91[dbg] Looping before Zumo is running
+23:19.21 92[dbg] Looping before Zumo is running
+23:19.21 93[dbg] Drive not mounted file not exist
+23:19.21 94[dbg] last print time1444756761
+23:19.26 95[dbg] Looping before Zumo is running
+23:19.26 96[dbg] Drive not mounted file not exist
+23:19.26 97[dbg] last print time1444756766
+23:19.31 98[dbg] Looping before Zumo is running
+23:19.31 99[dbg] Drive not mounted file not exist
+23:19.31 100[dbg] last print time1444756771
+23:19.36 101[dbg] Looping before Zumo is running
+23:19.36 102[dbg] Drive not mounted file not exist
+23:19.36 103[dbg] last print time1444756776
+23:19.41 104[dbg] Looping before Zumo is running
+23:19.41 105[dbg] Drive not mounted file not exist
+23:19.41 106[dbg] last print time1444756781
+23:19.46 107[dbg] Looping before Zumo is running
+23:19.46 108[dbg] Drive not mounted file not exist
+23:19.46 109[dbg] last print time1444756786
+23:19.52 110[dbg] Looping before Zumo is running
+23:19.52 111[dbg] Drive not mounted file not exist
+23:19.52 112[dbg] last print time1444756792
+23:19.57 113[dbg] Looping before Zumo is running
+23:19.57 114[dbg] Drive not mounted file not exist
+23:19.57 115[dbg] last print time1444756797
+23:20.02 116[dbg] Looping before Zumo is running
+23:20.02 117[dbg] Drive not mounted file not exist
+23:20.02 118[dbg] last print time1444756802
+23:20.07 119[dbg] Looping before Zumo is running
+23:20.07 120[dbg] Drive not mounted file not exist
+23:20.07 121[dbg] last print time1444756807
+23:20.12 122[dbg] Looping before Zumo is running
+23:20.12 123[dbg] Drive not mounted file not exist
+23:20.12 124[dbg] last print time1444756812
+23:20.17 125[dbg] Looping before Zumo is running
+23:20.17 126[dbg] Drive not mounted file not exist
+23:20.17 127[dbg] last print time1444756817
+23:20.22 128[dbg] Looping before Zumo is running
+23:20.22 129[dbg] Drive not mounted file not exist
+23:20.22 130[dbg] last print time1444756822
+23:20.27 131[dbg] Looping before Zumo is running
+23:20.27 132[dbg] Drive not mounted file not exist
+23:20.27 133[dbg] last print time1444756827
+23:20.32 134[dbg] Looping before Zumo is running
+23:20.32 135[dbg] Drive not mounted file not exist
+23:20.32 136[dbg] last print time1444756832
+23:20.37 137[dbg] Looping before Zumo is running
+23:20.37 138[dbg] Drive not mounted file not exist
+23:20.37 139[dbg] last print time1444756837
+23:20.42 140[dbg] Looping before Zumo is running
+23:20.42 141[dbg] Drive not mounted file not exist
+23:20.42 142[dbg] last print time1444756842
+23:20.47 143[dbg] Looping before Zumo is running
+23:20.47 144[dbg] Drive not mounted file not exist
+23:20.47 145[dbg] last print time1444756847
+23:20.51 146[dbg] In DLLCanUnloadNow : 0
+23:20.52 147[dbg] Looping before Zumo is running
+23:20.52 148[dbg] Drive not mounted file not exist
+23:20.52 149[dbg] last print time1444756852
