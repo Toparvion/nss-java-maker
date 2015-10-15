@@ -57,20 +57,28 @@ public class Puzzle {
             .findFirst()
             .orElse(OutMode.SKIP);
 
-    logger.info(String.format("Program start params:\ninput log file: '%s',\noutput NSS file: '%s'," +
-                    "\noutput file mode: %s.", input, output, outMode));
+    Charset inputCharset = Stream.of(args)
+            .filter(s -> s.toLowerCase().startsWith("-encoding:"))
+            .map(s -> s.substring("-encoding:".length()))
+            .map(Charset::forName)
+            .findFirst()
+            .orElse(Charset.defaultCharset());
 
-    new Puzzle(input, output, outMode);
+
+    logger.info(String.format("Program start params:\ninput log file: '%s',\ninput encoding: '%s',\noutput NSS file: " +
+            "'%s',\noutput file mode: %s.", input, inputCharset.displayName(), output, outMode));
+
+    new Puzzle(input, inputCharset, output, outMode);
 
   }
 
-  private Puzzle(String input, String output, OutMode outMode) throws Exception {
+  private Puzzle(String input, Charset inputCharset, String output, OutMode outMode) throws Exception {
     // get in and out file paths
     Path logPath = getLogPath(input);
     Path nssPath = getNssPath(output, outMode);
 
     // build a tree for convenient content processing
-    LogTree logTree = parseLogToTree(logPath);
+    LogTree logTree = parseLogToTree(logPath, inputCharset);
     List<NssFileEntry> entries = new ArrayList<>();
     for (Node branchOrigin : logTree.nodesLevel_0) {
       try {
@@ -110,9 +118,9 @@ public class Puzzle {
   /**
    * Reads log file and fills a 4-level tree with its content.
    */
-  private LogTree parseLogToTree(Path logPath) throws IOException {
+  private LogTree parseLogToTree(Path logPath, Charset inputCharset) throws IOException {
     LogTree logTree = new LogTree();
-    Files.lines(logPath, Charset.forName("CP1251"))           // TODO make it independent of encoding
+    Files.lines(logPath, inputCharset)
             .forEach(token -> {
               if (LogTree.PREDICATE_LEVEL_0.test(token)) {
                 Node newNodeLevel_0 = new Node(token);
@@ -198,5 +206,7 @@ public class Puzzle {
           "-out:path/to/result.nss - specifies the path to export the results to, defaults to 'session-keys.nss' in current directory;\n" +
           "                          example: -out:export/session-5.nss;\n" +
           "-outMode:<SKIP|APPEND|REWRITE> - specifies file access mode for exporting results, defaults to SKIP (don't export at all);\n" +
-          "                          example: -outMode:APPEND";
+          "                          example: -outMode:APPEND;\n" +
+          "-encoding:<encoding_name> - specifies the encoding of input log file; defaults to JVM default encoding;\n" +
+          "                          example: -encoding:CP1251.";
 }
