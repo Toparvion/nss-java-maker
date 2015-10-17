@@ -14,6 +14,9 @@ import java.util.stream.Stream;
 public class LogTree {
   private static final Pattern RAW_DATA_LINE_REGEXP = Pattern.compile("^\\w{4}: ");
 
+  LinkedList<Node> nodesLevel_0 = new LinkedList<>();
+  static final Predicate<String> PREDICATE_LEVEL_0 = s -> s.startsWith("*** ClientHello");
+
   LinkedList<Node> nodesLevel_1 = new LinkedList<>();
   static final Predicate<String> PREDICATE_LEVEL_1 = s -> s.startsWith("*** ");
 
@@ -23,18 +26,21 @@ public class LogTree {
   LinkedList<Node> nodesLevel_3 = new LinkedList<>();
   static final Predicate<String> PREDICATE_LEVEL_3 = RAW_DATA_LINE_REGEXP.asPredicate();
 
-  Node root = new Node("root", new ArrayList<>(nodesLevel_1));
+  Node root = new Node("root", new ArrayList<>(nodesLevel_0));
 
   /**
    * Traverses the tree through specified levels' tokens and returns third level nodes' content (HEX dump), if found.
+   *
+   * @param branchOrigin a Node that represents the origin of log conversation branch
    * @param level_1 first level token; must not be <code>null</code>
    * @param level_2 second level token; may be <code>null</code>
    * @param level_3 third level tokens (several tokens mean returning the concatenation of all matched nodes); may be
    *                <code>null</code>
    * @return found nodes content, if any
    */
-  public Optional<String> get(String level_1, String level_2, String... level_3) {
-    Optional<Node> nodeLevel_1 = nodesLevel_1.stream()
+  public Optional<String> get(Node branchOrigin, String level_1, String level_2, String... level_3) {
+    Optional<Node> nodeLevel_1 = branchOrigin.getChildren()
+            .stream()
             .filter(node -> node.getToken().contains(level_1))
             .findFirst();
     if (!nodeLevel_1.isPresent()) {
