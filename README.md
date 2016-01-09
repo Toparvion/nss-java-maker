@@ -16,6 +16,9 @@ These files can be used to decrypt HTTPS (or any other SSL/TLS) traffic produced
 ## Download
 You can always get the freshest verion of NSS Java Maker on the [latest release page](https://github.com/Toparvion/nss-java-maker/releases/latest).
 
+## License
+NSS Java Maker is distributed under GNU General Public License V3. For more info see [LICENSE.txt](https://github.com/Toparvion/nss-java-maker/raw/master/LICENSE.txt).
+
 ## System Requirements
 NSS Java Maker requires only [**JRE 8+**](http://www.oracle.com/technetwork/java/javase/downloads/2133155) to start.
 
